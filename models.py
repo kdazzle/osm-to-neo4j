@@ -1,17 +1,22 @@
-from .fields import Property, RelationshipField, IndexField, RelationshipTo
+from .fields import Property, RelationshipTo, RelationshipFrom
 from .db import Node
 
 
 class OsmNode(Node):
     """
-    An Open Street Map node
+    The Neo4J representation of an Open Street Map node
     """
 
     osm_id = Property()
     "The node ID given by Open Street Map"
 
+    def __init__(self, *args, **kwargs):
+        for property, value in kwargs.iteritems():
+            setattr(self, property, value)
+
 
 class GeoLocation(OsmNode):
+
     latitude = Property()
     longitude = Property()
 
@@ -21,34 +26,48 @@ class GeoLocation(OsmNode):
         self.longitude = longitude
         super(GeoLocation, self).__init__(self, **kwargs)
 
+    @staticmethod
+    def get_by_osm_id(osm_id):
+        # TODO: should filter on GeoLocation
+        nodes = GeoLocation.manager.find_by_property("osm_id", osm_id)
+        return nodes[0]
+
 
 class Vector(OsmNode):
-    #TODO: Is this class necessary? Are vectors ordered in any way?
 
-    terminus = RelationshipTo('VectorNode', 'ends_at')
-    origin = RelationshipTo('VectorNode', 'begins_at')
+    terminus = RelationshipTo('VectorSegment', 'ends_at')
+    origin = RelationshipTo('VectorSegment', 'begins_at')
 
 
-class VectorNode(OsmNode):
-    # TODO: Rename or subclass to StreetSegment?
+class VectorSegment(OsmNode):
 
     location = RelationshipTo('GeoLocation', 'is_located_at')
-    next = RelationshipTo('VectorNode', 'goes_to')
-    previous = RelationshipTo('VectorNode', 'comes_from')
-    vector = RelationshipTo('Vector', 'belongs_to')
+    next = RelationshipTo('VectorSegment', 'connects_to')
+    previous = RelationshipFrom('VectorSegment', 'connects_to')
+    vector = RelationshipTo('Vector', 'has_vector')
 
 
 class Way(OsmNode):
 
-    def is_street(self):
-        pass
+    pass
 
 
 class Street(Way):
-    # Has a collection of GeographicLocations
+
     name = Property()
     vector = RelationshipTo('Vector', 'has_vector')
 
 
+class Highway(Street):
+
+    pass
+
+
+class ResidentialStreet(Street):
+
+    pass
+
+
 class Building(OsmNode):
+
     location = RelationshipTo('GeoLocation', 'is_located_at')

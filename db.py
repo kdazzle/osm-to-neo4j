@@ -1,11 +1,15 @@
 from .__init__ import db
-from .fields import Property, RelationshipField, RelationshipTo
+from .fields import Property, RelationshipFrom, RelationshipTo
+
+from neo4jrestclient.query import Q
 
 
 class Node(object):
     """
     A Neo4j Node
     """
+
+    manager = NodeManager()
 
     def __init__(self, *args, **kwargs):
         pass
@@ -22,6 +26,10 @@ class Node(object):
         fields_by_field_type = self.get_fields_by_field_type()
 
         Property.save_properties(node, fields_by_field_type.get('Property', {}))
+        RelationshipTo.save_relationships(
+            node, fields_by_field_type.get('RelationshipTo', {}))
+        RelationshipFrom.save_relationships(
+            node, fields_by_field_type.get('RelationshipFrom', {}))
 
     def get_fields_by_field_type(self):
         """
@@ -42,3 +50,19 @@ class Node(object):
             })
 
         return fields_by_field_type
+
+
+class NodeManager(object):
+
+    @staticmethod
+    def find_by_property(property, value):
+        """
+        Performs a case-sensitive query on the database and returns
+        matching nodes
+
+        :param property: string - the property being queried
+        :param value: the value that the property should be (case-sensitive)
+        :return: list of nodes
+        """
+        lookup = Q(property, exact=value)
+        return db.nodes.filter(lookup)

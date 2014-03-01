@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as element_tree
-import os
 
-from models import GeoLocation, Vector, VectorNode, Way, Street, Building
+from models import GeoLocation, Vector, VectorSegment, Street
 
 
 OSM_FILE_LOCATION = '../smaller_map.osm'
@@ -50,7 +49,7 @@ def add_streets(ways):
         vector = create_vector(way_id)
         create_vector_nodes(vector, way, way_id)
 
-        street.vector.connect(vector)
+        street.vector = vector
         street.save()
 
         print('Added street {0}'.format(street.name.encode('utf8')))
@@ -78,7 +77,7 @@ def get_street_name(way):
 
 def create_vector(way_id):
     vector = Vector()
-    vector.id = way_id
+    vector.osm_id = way_id
     vector.save()
     return vector
 
@@ -91,44 +90,32 @@ def create_vector_nodes(vector, way, way_id):
     for node_reference in node_references:
         node_id = node_reference.get('ref')
         try:
-            location = GeoLocation.index.search("id:{0}".format(node_id))[0]
+            location = GeoLocation.get_by_osm_id(node_id)
             vector_node = create_vector_node(location, vector, previous_node)
             vector_nodes.append(vector_node)
             previous_node = vector_node
         except Exception as e:
             print('Error adding way #{0}, node #{1}: {2}'.format(
-                way_id, node_id, str(e)
-            ))
+                way_id, node_id, str(e)))
             continue
 
     if len(vector_nodes) > 0:
-        vector.origin.connect(vector_nodes[0])
-        vector.terminus.connect(vector_nodes[-1])
+        vector.origin = vector_nodes[0]
+        vector.terminus = vector_nodes[-1]
         vector.save()
 
 
 def create_vector_node(location, vector, previous):
-    vector_node = VectorNode()
-    vector_node.save()
-    vector_node.location.connect(location)
-    vector_node.vector.connect(vector)
+    vector_segment = VectorSegment(
+        location=location,
+        vector=vector)
 
     if previous is not None:
-        vector_node.previous.connect(previous)
+        vector_segment.previous = previous
 
-    vector_node.save()
-    return vector_node
-
-
-def delete_everything():
-    from py2neo import neo4j
-
-    graph_db = neo4j.GraphDatabaseService(neo4j.DEFAULT_URI)
-    graph_db.clear()
+    vector_segment.save()
+    return vector_segment
 
 
 if __name__ == '__main__':
-    os.environ['NEO4J_REST_URL'] = NEO4J_REST_URL
-    delete_everything()
-    print('everything deleted')
     parse()
