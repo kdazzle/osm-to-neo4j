@@ -1,9 +1,10 @@
+from os.path import join, dirname
 import xml.etree.ElementTree as element_tree
 
 from models import GeoLocation, Vector, VectorSegment, Street
 
 
-OSM_FILE_LOCATION = '../smaller_map.osm'
+OSM_FILE_LOCATION = join(dirname(__file__), '..', 'sample_map.osm')
 
 
 def parse():

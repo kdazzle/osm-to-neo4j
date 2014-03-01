@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.1 (29704 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.5143500" minlon="-73.5746700" maxlat="45.5165600" maxlon="-73.5692200"/>
+ <node id="29793357" visible="true" version="7" changeset="13791094" timestamp="2012-11-07T22:12:31Z" user="tfitzg" uid="351713" lat="45.5098769" lon="-73.5638102">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794076" visible="true" version="5" changeset="10242092" timestamp="2011-12-30T05:02:28Z" user="drukqs" uid="574729" lat="45.5138826" lon="-73.5725107">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794111" visible="true" version="6" changeset="10251444" timestamp="2011-12-31T01:35:17Z" user="drukqs" uid="574729" lat="45.5223731" lon="-73.5913007">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794112" visible="true" version="5" changeset="10251444" timestamp="2011-12-31T01:35:17Z" user="drukqs" uid="574729" lat="45.5224273" lon="-73.5914082">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794110" visible="true" version="7" changeset="12640468" timestamp="2012-08-07T01:07:59Z" user="tfitzg" uid="351713" lat="45.5214741" lon="-73.5893409">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794285" visible="true" version="4" changeset="8469776" timestamp="2011-06-18T01:29:12Z" user="tfitzg" uid="351713" lat="45.5087971" lon="-73.5614816"/>
+ <node id="29794337" visible="true" version="3" changeset="1777901" timestamp="2009-07-09T06:33:19Z" user="sjacques" uid="143128" lat="45.5075222" lon="-73.5587233"/>
+ <node id="29795957" visible="true" version="4" changeset="8469776" timestamp="2011-06-18T01:29:12Z" user="tfitzg" uid="351713" lat="45.5088809" lon="-73.5616712"/>
+ <node id="31705441" visible="true" version="4" changeset="10266548" timestamp="2012-01-01T22:40:53Z" user="tfitzg" uid="351713" lat="45.5117068" lon="-73.5780858">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="31705842" visible="true" version="3" changeset="10266548" timestamp="2012-01-01T22:40:53Z" user="tfitzg" uid="351713" lat="45.5138099" lon="-73.5761571">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="31705843" visible="true" version="3" changeset="10266548" timestamp="2012-01-01T22:40:54Z" user="tfitzg" uid="351713" lat="45.5142826" lon="-73.5757595"/>
+ <node id="31705722" visible="true" version="5" changeset="10267683" timestamp="2012-01-02T04:15:52Z" user="drukqs" uid="574729" lat="45.5115936" lon="-73.5782131">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="31705840" visible="true" version="4" changeset="10278004" timestamp="2012-01-03T01:58:44Z" user="drukqs" uid="574729" lat="45.5128724" lon="-73.5769994"/>
+ <node id="31705844" visible="true" version="6" changeset="10278004" timestamp="2012-01-03T02:03:36Z" user="drukqs" uid="574729" lat="45.5155113" lon="-73.5747082"/>
+ <node id="31705845" visible="true" version="4" changeset="10278496" timestamp="2012-01-03T06:01:08Z" user="drukqs" uid="574729" lat="45.5159623" lon="-73.5743322"/>
+ <node id="31705853" visible="true" version="5" changeset="11974003" timestamp="2012-06-21T23:08:02Z" user="dlb_" uid="709422" lat="45.5188833" lon="-73.5717900">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="31776104" visible="true" version="3" changeset="1777901" timestamp="2009-07-09T06:33:20Z" user="sjacques" uid="143128" lat="45.5139229" lon="-73.5725969"/>
+ <node id="31776155" visible="true" version="2" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5164132" lon="-73.5709832"/>
+ <node id="31776156" visible="true" version="2" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5179037" lon="-73.5696572"/>
+ <node id="31776157" visible="true" version="2" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5174987" lon="-73.5688264"/>
+ <node id="31776110" visible="true" version="4" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5156885" lon="-73.5709567"/>
+ <node id="31776108" visible="true" version="4" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5148100" lon="-73.5717728"/>
+ <node id="31776823" visible="true" version="2" changeset="404067" timestamp="2008-10-17T05:31:49Z" user="djo0012" uid="64356" lat="45.5130391" lon="-73.5692268"/>
+ <node id="31776824" visible="true" version="4" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954" lat="45.5139739" lon="-73.5688064"/>
+ <node id="182070159" visible="true" version="4" changeset="518752" timestamp="2008-10-22T04:59:35Z" user="jumar" uid="74520" lat="45.5173378" lon="-73.5702068"/>
+ <node id="208863270" visible="true" version="4" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5159941" lon="-73.5701662"/>
+ <node id="208863259" visible="true" version="3" changeset="10354125" timestamp="2012-01-10T19:01:28Z" user="tfitzg" uid="351713" lat="45.5168819" lon="-73.5706186"/>
+ <node id="208932423" visible="true" version="3" changeset="2662044" timestamp="2009-09-28T09:44:50Z" user="pierlux" uid="61954" lat="45.5135440" lon="-73.5690003">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="208932403" visible="true" version="3" changeset="10256318" timestamp="2011-12-31T16:18:23Z" user="drukqs" uid="574729" lat="45.5168101" lon="-73.5747890"/>
+ <node id="208953151" visible="true" version="1" changeset="566566" timestamp="2008-01-07T20:55:11Z" user="moyogo" uid="246" lat="45.5127689" lon="-73.5662895">
+  <tag k="created_by" v="JOSM"/>
+ </node>
+ <node id="237603328" visible="true" version="3" changeset="1777901" timestamp="2009-07-09T06:33:20Z" user="sjacques" uid="143128" lat="45.5126294" lon="-73.5697414"/>
+ <node id="293294413" visible="true" version="4" changeset="10258200" timestamp="2011-12-31T21:44:23Z" user="drukqs" uid="574729" lat="45.5188901" lon="-73.5836085"/>
+ <node id="31776825" visible="true" version="4" changeset="2662044" timestamp="2009-09-28T09:44:49Z" user="pierlux" uid="61954" lat="45.5145833" lon="-73.5685416">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="208932355" visible="true" version="5" changeset="9465924" timestamp="2011-10-04T01:48:33Z" user="tfitzg" uid="351713" lat="45.5198246" lon="-73.5799931"/>
+ <node id="31777084" visible="true" version="6" changeset="10255822" timestamp="2011-12-31T15:55:31Z" user="drukqs" uid="574729" lat="45.5187768" lon="-73.5777158"/>
+ <node id="208932338" visible="true" version="4" changeset="10256318" timestamp="2011-12-31T16:18:23Z" user="drukqs" uid="574729" lat="45.5172584" lon="-73.5743858"/>
+ <node id="208953156" visible="true" version="3" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954" lat="45.5134609" lon="-73.5677350"/>
+ <node id="31776109" visible="true" version="4" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5152143" lon="-73.5713972"/>
+ <node id="208932140" visible="true" version="3" changeset="2646336" timestamp="2009-09-26T21:44:19Z" user="pierlux" uid="61954" lat="45.5141343" lon="-73.5675575"/>
+ <node id="209046758" visible="true" version="4" changeset="9163328" timestamp="2011-08-30T01:03:03Z" user="tfitzg" uid="351713" lat="45.5209313" lon="-73.5824026"/>
+ <node id="29794315" visible="true" version="8" changeset="10160556" timestamp="2011-12-20T02:04:28Z" user="tfitzg" uid="351713" lat="45.5105800" lon="-73.5653248">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794074" visible="true" version="7" changeset="2662044" timestamp="2009-09-28T09:44:49Z" user="pierlux" uid="61954" lat="45.5125052" lon="-73.5694577">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794316" visible="true" version="4" changeset="10160556" timestamp="2011-12-20T01:41:32Z" user="tfitzg" uid="351713" lat="45.5112631" lon="-73.5667781">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794077" visible="true" version="5" changeset="10266548" timestamp="2012-01-01T22:40:54Z" user="tfitzg" uid="351713" lat="45.5150502" lon="-73.5751105">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="29794079" visible="true" version="3" changeset="10255822" timestamp="2011-12-31T15:55:32Z" user="drukqs" uid="574729" lat="45.5165084" lon="-73.5783798"/>
+ <node id="458919701" visible="true" version="1" changeset="2076772" timestamp="2009-08-08T16:20:42Z" user="gmillaire" uid="154910" lat="45.5153954" lon="-73.5711398">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="thai"/>
+  <tag k="name" v="Tamarin"/>
+ </node>
+ <node id="458919702" visible="true" version="1" changeset="2076772" timestamp="2009-08-08T16:20:42Z" user="gmillaire" uid="154910" lat="45.5154375" lon="-73.5710969">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="indian"/>
+  <tag k="name" v="East India"/>
+ </node>
+ <node id="458918551" visible="true" version="1" changeset="2076736" timestamp="2009-08-08T16:16:48Z" user="pierlux" uid="61954" lat="45.5153293" lon="-73.5713228">
+  <tag k="amenity" v="telephone"/>
+  <tag k="payment:coins" v="no"/>
+  <tag k="payment:telephone_cards" v="no"/>
+ </node>
+ <node id="458918550" visible="true" version="3" changeset="16098670" timestamp="2013-05-12T16:52:06Z" user="Frédéric Latour" uid="203628" lat="45.5149616" lon="-73.5717239">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="portuguese"/>
+  <tag k="name" v="Sagres"/>
+ </node>
+ <node id="458918553" visible="true" version="1" changeset="2076736" timestamp="2009-08-08T16:16:48Z" user="pierlux" uid="61954" lat="45.5154037" lon="-73.5712621">
+  <tag k="amenity" v="fountain"/>
+ </node>
+ <node id="458918554" visible="true" version="1" changeset="2076736" timestamp="2009-08-08T16:16:48Z" user="pierlux" uid="61954" lat="45.5154402" lon="-73.5712252">
+  <tag k="amenity" v="bicycle_parking"/>
+ </node>
+ <node id="458918558" visible="true" version="1" changeset="2076736" timestamp="2009-08-08T16:16:48Z" user="pierlux" uid="61954" lat="45.5152442" lon="-73.5709586"/>
+ <node id="458918547" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:58:17Z" user="wheelmap_visitor" uid="290680" lat="45.5146472" lon="-73.5720456">
+  <tag k="name" v="Maché Brito"/>
+  <tag k="operator" v="Extra"/>
+  <tag k="shop" v="supermarket"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="458918552" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:59:19Z" user="wheelmap_visitor" uid="290680" lat="45.5153942" lon="-73.5713618">
+  <tag k="amenity" v="atm"/>
+  <tag k="operator" v="Banque Nationale"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="458918555" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T15:00:21Z" user="wheelmap_visitor" uid="290680" lat="45.5156726" lon="-73.5710453">
+  <tag k="name" v="Murelanos"/>
+  <tag k="shop" v="convenience"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="458918557" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5153816" lon="-73.5712418"/>
+ <node id="458918549" visible="true" version="5" changeset="15106696" timestamp="2013-02-21T00:22:25Z" user="Frédéric Latour" uid="203628" lat="45.5149010" lon="-73.5718070">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="greek"/>
+  <tag k="name" v="La Caverne Grecque"/>
+  <tag k="outdoor_seating" v="yes"/>
+ </node>
+ <node id="458919692" visible="true" version="1" changeset="2076772" timestamp="2009-08-08T16:20:39Z" user="gmillaire" uid="154910" lat="45.5161111" lon="-73.5706591">
+  <tag k="amenity" v="telephone"/>
+ </node>
+ <node id="458919693" visible="true" version="1" changeset="2076772" timestamp="2009-08-08T16:20:39Z" user="gmillaire" uid="154910" lat="45.5160570" lon="-73.5707021">
+  <tag k="amenity" v="bicycle_parking"/>
+ </node>
+ <node id="458940564" visible="true" version="1" changeset="2076955" timestamp="2009-08-08T16:39:24Z" user="pierlux" uid="61954" lat="45.5151670" lon="-73.5698101"/>
+ <node id="458940565" visible="true" version="1" changeset="2076955" timestamp="2009-08-08T16:39:24Z" user="pierlux" uid="61954" lat="45.5155587" lon="-73.5706730"/>
+ <node id="458940566" visible="true" version="1" changeset="2076955" timestamp="2009-08-08T16:39:24Z" user="pierlux" uid="61954" lat="45.5150231" lon="-73.5694946"/>
+ <node id="458940568" visible="true" version="1" changeset="2076955" timestamp="2009-08-08T16:39:24Z" user="pierlux" uid="61954" lat="45.5147686" lon="-73.5697192">
+  <tag k="barrier" v="bollard"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="458940562" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:33Z" user="pierlux" uid="61954" lat="45.5153264" lon="-73.5694198"/>
+ <node id="458940563" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:33Z" user="pierlux" uid="61954" lat="45.5154076" lon="-73.5695957"/>
+ <node id="458940561" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:33Z" user="pierlux" uid="61954" lat="45.5158011" lon="-73.5704488"/>
+ <node id="458940560" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5133104" lon="-73.5698238"/>
+ <node id="458940567" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5145172" lon="-73.5699412"/>
+ <node id="458940555" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5142986" lon="-73.5706530"/>
+ <node id="458940554" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5149249" lon="-73.5707927"/>
+ <node id="458940552" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5145343" lon="-73.5711691"/>
+ <node id="458940559" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5137408" lon="-73.5694313"/>
+ <node id="458940525" visible="true" version="3" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5138200" lon="-73.5708642"/>
+ <node id="459031089" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:07Z" user="pierlux" uid="61954" lat="45.5141192" lon="-73.5692248">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3420"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="459031090" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:07Z" user="pierlux" uid="61954" lat="45.5151250" lon="-73.5713560">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3564"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="459031091" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:07Z" user="pierlux" uid="61954" lat="45.5142797" lon="-73.5707406">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3510"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="459031110" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:08Z" user="pierlux" uid="61954" lat="45.5151709" lon="-73.5712023">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3579"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="459031112" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:08Z" user="pierlux" uid="61954" lat="45.5141930" lon="-73.5691467">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3421"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="459031125" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:09Z" user="pierlux" uid="61954" lat="45.5155934" lon="-73.5708483">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3536"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031126" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:09Z" user="pierlux" uid="61954" lat="45.5150116" lon="-73.5695847">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3458"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031127" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:09Z" user="pierlux" uid="61954" lat="45.5149738" lon="-73.5694843">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3456"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031128" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:10Z" user="pierlux" uid="61954" lat="45.5146832" lon="-73.5688583">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3408"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031129" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:10Z" user="pierlux" uid="61954" lat="45.5149515" lon="-73.5692041">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3421"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031130" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:10Z" user="pierlux" uid="61954" lat="45.5151780" lon="-73.5697130">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3455"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031131" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:10Z" user="pierlux" uid="61954" lat="45.5152529" lon="-73.5698657">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3459"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031132" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:10Z" user="pierlux" uid="61954" lat="45.5155756" lon="-73.5705757">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3503"/>
+  <tag k="addr:street" v="Rue de l'Hôtel de ville"/>
+ </node>
+ <node id="459031139" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5144630" lon="-73.5721845">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031141" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5148683" lon="-73.5717840">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="105"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031142" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5152053" lon="-73.5714718">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="129"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031144" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5160741" lon="-73.5706607">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="217"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031146" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5157442" lon="-73.5709813">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="201"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031148" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5156309" lon="-73.5709338">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="180"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031150" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:11Z" user="pierlux" uid="61954" lat="45.5152296" lon="-73.5713130">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="152"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031092" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:33Z" user="pierlux" uid="61954" lat="45.5147175" lon="-73.5716998">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3558"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="459031153" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:33Z" user="pierlux" uid="61954" lat="45.5148064" lon="-73.5717091">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="102"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031155" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:34Z" user="pierlux" uid="61954" lat="45.5151437" lon="-73.5714060">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="124"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031157" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:34Z" user="pierlux" uid="61954" lat="45.5143970" lon="-73.5720767">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459031159" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:34Z" user="pierlux" uid="61954" lat="45.5147288" lon="-73.5717684">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="80"/>
+  <tag k="addr:street" v="Rue Prince-Arthur est"/>
+ </node>
+ <node id="459156470" visible="true" version="1" changeset="2078763" timestamp="2009-08-08T20:05:01Z" user="pierlux" uid="61954" lat="45.5138121" lon="-73.5694407">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3423"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="459156471" visible="true" version="1" changeset="2078763" timestamp="2009-08-08T20:05:01Z" user="pierlux" uid="61954" lat="45.5145504" lon="-73.5710868">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3527"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="459929470" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:50Z" user="pierlux" uid="61954" lat="45.5153835" lon="-73.5688005"/>
+ <node id="459929510" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:50Z" user="pierlux" uid="61954" lat="45.5156959" lon="-73.5684937"/>
+ <node id="459929513" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:50Z" user="pierlux" uid="61954" lat="45.5153686" lon="-73.5687672"/>
+ <node id="459929514" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:50Z" user="pierlux" uid="61954" lat="45.5161185" lon="-73.5694426"/>
+ <node id="459929516" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5158019" lon="-73.5697364"/>
+ <node id="459929518" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5161660" lon="-73.5693971"/>
+ <node id="459929521" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5153123" lon="-73.5689687">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3422"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929525" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5159968" lon="-73.5704815">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3506"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929528" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5161313" lon="-73.5707764">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3600"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929549" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5171837" lon="-73.5730721">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3748"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929553" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5155002" lon="-73.5687632">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3415"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929556" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5158490" lon="-73.5695652">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3473"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929560" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5159027" lon="-73.5697277">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3475"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929563" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:51Z" user="pierlux" uid="61954" lat="45.5159834" lon="-73.5699129">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3483"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+ </node>
+ <node id="459929574" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:52Z" user="pierlux" uid="61954" lat="45.5160782" lon="-73.5699960">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="256"/>
+  <tag k="addr:street" v="Rue du Square-Saint-Louis"/>
+ </node>
+ <node id="459929577" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:52Z" user="pierlux" uid="61954" lat="45.5164780" lon="-73.5696107">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="294"/>
+  <tag k="addr:street" v="Rue du Square-Saint-Louis"/>
+ </node>
+ <node id="459929584" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:52Z" user="pierlux" uid="61954" lat="45.5165535" lon="-73.5710687">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="255"/>
+  <tag k="addr:street" v="Rue du Square-Saint-Louis"/>
+ </node>
+ <node id="459929586" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:52Z" user="pierlux" uid="61954" lat="45.5168400" lon="-73.5708112">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="287"/>
+  <tag k="addr:street" v="Rue du Square-Saint-Louis"/>
+ </node>
+ <node id="459929676" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:53Z" user="pierlux" uid="61954" lat="45.5164685" lon="-73.5697411"/>
+ <node id="459929677" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5174138" lon="-73.5701313"/>
+ <node id="459929685" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5173679" lon="-73.5700289"/>
+ <node id="459929686" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5170523" lon="-73.5693199"/>
+ <node id="459929695" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5164081" lon="-73.5709056"/>
+ <node id="459929697" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5161019" lon="-73.5702134"/>
+ <node id="459929699" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5165089" lon="-73.5698312"/>
+ <node id="459929704" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5162563" lon="-73.5705637"/>
+ <node id="459929706" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5161971" lon="-73.5706202"/>
+ <node id="459929708" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5167311" lon="-73.5706103"/>
+ <node id="459929710" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5164382" lon="-73.5705849"/>
+ <node id="459929712" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5162147" lon="-73.5704698"/>
+ <node id="459929713" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5163685" lon="-73.5703303"/>
+ <node id="459929715" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:54Z" user="pierlux" uid="61954" lat="45.5164702" lon="-73.5702437"/>
+ <node id="459929726" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:55Z" user="pierlux" uid="61954" lat="45.5166287" lon="-73.5700990"/>
+ <node id="459929727" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:55Z" user="pierlux" uid="61954" lat="45.5163574" lon="-73.5705761"/>
+ <node id="459929730" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:55Z" user="pierlux" uid="61954" lat="45.5164458" lon="-73.5705043"/>
+ <node id="459929732" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:55Z" user="pierlux" uid="61954" lat="45.5165503" lon="-73.5704099"/>
+ <node id="459929734" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:55Z" user="pierlux" uid="61954" lat="45.5167076" lon="-73.5702752"/>
+ <node id="459929781" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:56Z" user="pierlux" uid="61954" lat="45.5167741" lon="-73.5699036"/>
+ <node id="459929784" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:56Z" user="pierlux" uid="61954" lat="45.5167960" lon="-73.5699542"/>
+ <node id="459929785" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:56Z" user="pierlux" uid="61954" lat="45.5168744" lon="-73.5701354"/>
+ <node id="459929819" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:57Z" user="pierlux" uid="61954" lat="45.5165536" lon="-73.5698677"/>
+ <node id="459929820" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:57Z" user="pierlux" uid="61954" lat="45.5166350" lon="-73.5700521"/>
+ <node id="459929827" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:57Z" user="pierlux" uid="61954" lat="45.5165297" lon="-73.5697244">
+  <tag k="amenity" v="vending_machine"/>
+  <tag k="vending" v="parking_tickets"/>
+ </node>
+ <node id="208863264" visible="true" version="3" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5163937" lon="-73.5710598"/>
+ <node id="31776158" visible="true" version="2" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5160506" lon="-73.5701897"/>
+ <node id="31776111" visible="true" version="3" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954" lat="45.5161541" lon="-73.5705241"/>
+ <node id="459929811" visible="true" version="2" changeset="2089716" timestamp="2009-08-09T20:00:46Z" user="pierlux" uid="61954" lat="45.5170206" lon="-73.5693788"/>
+ <node id="459929812" visible="true" version="2" changeset="2089716" timestamp="2009-08-09T20:00:46Z" user="pierlux" uid="61954" lat="45.5165577" lon="-73.5698193"/>
+ <node id="471064540" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:56:13Z" user="wheelmap_visitor" uid="290680" lat="45.5145174" lon="-73.5737597">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Asahi"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="471062913" visible="true" version="2" changeset="10278004" timestamp="2012-01-03T02:03:36Z" user="drukqs" uid="574729" lat="45.5146701" lon="-73.5742567"/>
+ <node id="471062551" visible="true" version="2" changeset="10242092" timestamp="2011-12-30T05:02:28Z" user="drukqs" uid="574729" lat="45.5135993" lon="-73.5756830"/>
+ <node id="471062543" visible="true" version="2" changeset="10242092" timestamp="2011-12-30T05:02:28Z" user="drukqs" uid="574729" lat="45.5148023" lon="-73.5745664"/>
+ <node id="471064654" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:55:13Z" user="wheelmap_visitor" uid="290680" lat="45.5145836" lon="-73.5739142">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="pizza"/>
+  <tag k="name" v="Pizza 1 plus 1"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="471064326" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:56:13Z" user="wheelmap_visitor" uid="290680" lat="45.5144092" lon="-73.5735022">
+  <tag k="name" v="Slovenia"/>
+  <tag k="shop" v="butcher"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="476659820" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5152114" lon="-73.5748365">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659821" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5154600" lon="-73.5746351">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659822" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5155153" lon="-73.5745031">
+  <tag k="shop" v="convenience"/>
+ </node>
+ <node id="476659823" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5155071" lon="-73.5745693">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659824" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5159642" lon="-73.5742001"/>
+ <node id="476659825" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5158941" lon="-73.5742481">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659826" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5160154" lon="-73.5738109"/>
+ <node id="476659827" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5161229" lon="-73.5740614"/>
+ <node id="476659829" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5158567" lon="-73.5739496"/>
+ <node id="476659832" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5162022" lon="-73.5739675">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="118"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659833" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:34Z" user="pierlux" uid="61954" lat="45.5163108" lon="-73.5738619">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="120"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="208932417" visible="true" version="5" changeset="11036789" timestamp="2012-03-20T01:36:31Z" user="tfitzg" uid="351713" lat="45.5189296" lon="-73.5808263">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476659869" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:36Z" user="pierlux" uid="61954" lat="45.5157061" lon="-73.5710989">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3604"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659871" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5162363" lon="-73.5737834">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3738"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="476659872" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5149399" lon="-73.5719294">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3625"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="476659873" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5158398" lon="-73.5738961">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3741"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="476659874" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5157781" lon="-73.5740759">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3748"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="476659875" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5148602" lon="-73.5720505">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3600"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+ </node>
+ <node id="476659876" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5153957" lon="-73.5745933">
+  <tag k="shop" v="hairdresser"/>
+ </node>
+ <node id="476659882" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5147564" lon="-73.5730058"/>
+ <node id="476659883" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5148861" lon="-73.5728840"/>
+ <node id="476659884" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5148482" lon="-73.5728042"/>
+ <node id="476659885" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5149010" lon="-73.5728254">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3621"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659886" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5148392" lon="-73.5730713">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3625"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659887" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5147621" lon="-73.5728878">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3619"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659890" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5154550" lon="-73.5744345">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3741"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659891" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:37Z" user="pierlux" uid="61954" lat="45.5138526" lon="-73.5726220">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3608"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="476659892" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:38Z" user="pierlux" uid="61954" lat="45.5146985" lon="-73.5745117">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3710"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="476659895" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:38Z" user="pierlux" uid="61954" lat="45.5140248" lon="-73.5726550">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3601"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="476659896" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:38Z" user="pierlux" uid="61954" lat="45.5146522" lon="-73.5740744">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3685"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="476659897" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:38Z" user="pierlux" uid="61954" lat="45.5147240" lon="-73.5742690">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3697"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="476659898" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:38Z" user="pierlux" uid="61954" lat="45.5150307" lon="-73.5749415">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3725"/>
+  <tag k="addr:street" v="Rue Saint-Laurent"/>
+ </node>
+ <node id="209046751" visible="true" version="2" changeset="2303018" timestamp="2009-08-29T16:36:42Z" user="pierlux" uid="61954" lat="45.5200227" lon="-73.5831893"/>
+ <node id="31776107" visible="true" version="4" changeset="2303018" timestamp="2009-08-29T16:36:43Z" user="pierlux" uid="61954" lat="45.5143783" lon="-73.5721738"/>
+ <node id="31777082" visible="true" version="6" changeset="10255822" timestamp="2011-12-31T15:55:30Z" user="drukqs" uid="574729" lat="45.5178866" lon="-73.5785365"/>
+ <node id="476659831" visible="true" version="2" changeset="10278496" timestamp="2012-01-03T06:01:08Z" user="drukqs" uid="574729" lat="45.5160274" lon="-73.5738086"/>
+ <node id="476659828" visible="true" version="3" changeset="10278496" timestamp="2012-01-03T06:01:08Z" user="drukqs" uid="574729" lat="45.5161699" lon="-73.5741566"/>
+ <node id="208932422" visible="true" version="5" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5172496" lon="-73.5771346"/>
+ <node id="476659899" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5155124" lon="-73.5720405"/>
+ <node id="476659902" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5159755" lon="-73.5715921"/>
+ <node id="476659900" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5157395" lon="-73.5725149"/>
+ <node id="476659846" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5159474" lon="-73.5715131"/>
+ <node id="476659847" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5160409" lon="-73.5717170"/>
+ <node id="476659858" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:25Z" user="pierlux" uid="61954" lat="45.5161569" lon="-73.5719698"/>
+ <node id="476659877" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5149886" lon="-73.5736359">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3700"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659889" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5144271" lon="-73.5724320">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3604"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659888" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5146053" lon="-73.5728175">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3622"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+ </node>
+ <node id="476659903" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5161751" lon="-73.5730830"/>
+ <node id="476659901" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5158625" lon="-73.5720021"/>
+ <node id="476659841" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5158612" lon="-73.5707973"/>
+ <node id="476659842" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:26Z" user="pierlux" uid="61954" lat="45.5161170" lon="-73.5713566"/>
+ <node id="476659843" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5161341" lon="-73.5713416"/>
+ <node id="476659844" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5162218" lon="-73.5715473"/>
+ <node id="476659845" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5162415" lon="-73.5715285"/>
+ <node id="476659848" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5164352" lon="-73.5736432"/>
+ <node id="476659849" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5166327" lon="-73.5734634"/>
+ <node id="476659850" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5162157" lon="-73.5725596"/>
+ <node id="476659851" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5160181" lon="-73.5727394"/>
+ <node id="476659852" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5161983" lon="-73.5721391"/>
+ <node id="476659853" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5159325" lon="-73.5715724"/>
+ <node id="476659854" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5155151" lon="-73.5719711"/>
+ <node id="476659855" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5157808" lon="-73.5725377"/>
+ <node id="476659857" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5161140" lon="-73.5717550">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3661"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659856" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5168617" lon="-73.5733651">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3725"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659859" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5163600" lon="-73.5717863"/>
+ <node id="476659861" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5160593" lon="-73.5716326">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3657"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659860" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:27Z" user="pierlux" uid="61954" lat="45.5161775" lon="-73.5719520">
+  <tag k="barrier" v="gate"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="476659863" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5159471" lon="-73.5713814">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3633"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659862" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5159950" lon="-73.5714887">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3635"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659865" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5158661" lon="-73.5712001">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3621"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659864" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5159011" lon="-73.5712785">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3623"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659867" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5153967" lon="-73.5714617">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3601"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="476659866" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5157919" lon="-73.5710340">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3611"/>
+  <tag k="addr:street" v="Avenue de l'Hôtel de ville"/>
+ </node>
+ <node id="476659868" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5155426" lon="-73.5717824">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3629"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="476659870" visible="true" version="2" changeset="2646546" timestamp="2009-09-26T22:09:28Z" user="pierlux" uid="61954" lat="45.5152708" lon="-73.5716862">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3608"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+ </node>
+ <node id="476659809" visible="true" version="4" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5170636" lon="-73.5733993"/>
+ <node id="476659840" visible="true" version="3" changeset="10354125" timestamp="2012-01-10T19:01:31Z" user="tfitzg" uid="351713" lat="45.5172524" lon="-73.5738221"/>
+ <node id="580993295" visible="true" version="1" changeset="3288766" timestamp="2009-12-04T15:13:02Z" user="jfd553" uid="101184" lat="45.5093248" lon="-73.5626255"/>
+ <node id="580993294" visible="true" version="2" changeset="8469776" timestamp="2011-06-18T01:29:13Z" user="tfitzg" uid="351713" lat="45.5090856" lon="-73.5621014"/>
+ <node id="580995106" visible="true" version="1" changeset="3288766" timestamp="2009-12-04T15:16:37Z" user="jfd553" uid="101184" lat="45.5130386" lon="-73.5668037"/>
+ <node id="678766352" visible="true" version="3" changeset="10242092" timestamp="2011-12-30T05:02:29Z" user="drukqs" uid="574729" lat="45.5139585" lon="-73.5753496"/>
+ <node id="678766334" visible="true" version="3" changeset="10266548" timestamp="2012-01-01T22:40:56Z" user="tfitzg" uid="351713" lat="45.5132387" lon="-73.5766651"/>
+ <node id="678766354" visible="true" version="4" changeset="17839871" timestamp="2013-09-14T20:29:59Z" user="permute" uid="158267" lat="45.5135582" lon="-73.5727861"/>
+ <node id="2282633295" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5147021" lon="-73.5745878"/>
+ <node id="2282633296" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5146382" lon="-73.5744494"/>
+ <node id="2282633297" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5144414" lon="-73.5746339"/>
+ <node id="2282633298" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5145036" lon="-73.5747636"/>
+ <node id="2282633299" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5146097" lon="-73.5743874"/>
+ <node id="2282633300" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5144130" lon="-73.5745712"/>
+ <node id="2282633301" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5145795" lon="-73.5743215"/>
+ <node id="2282633302" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5143830" lon="-73.5745034"/>
+ <node id="2282633303" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5145480" lon="-73.5742522"/>
+ <node id="2282633304" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5143515" lon="-73.5744347"/>
+ <node id="2282633305" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5145165" lon="-73.5741831"/>
+ <node id="2282633306" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5143199" lon="-73.5743659"/>
+ <node id="2282633307" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:08Z" user="ansis" uid="1193517" lat="45.5144863" lon="-73.5741170"/>
+ <node id="2282633308" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5142900" lon="-73.5742980"/>
+ <node id="2282633309" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5144585" lon="-73.5740556"/>
+ <node id="2282633310" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5142618" lon="-73.5742389"/>
+ <node id="2282633311" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5144283" lon="-73.5739897"/>
+ <node id="2282633312" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5142321" lon="-73.5741701"/>
+ <node id="2282633313" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5144019" lon="-73.5739313"/>
+ <node id="2282633314" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5142058" lon="-73.5741117"/>
+ <node id="2282633315" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5143728" lon="-73.5738650"/>
+ <node id="2282633316" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5141755" lon="-73.5740479"/>
+ <node id="2282633317" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5143465" lon="-73.5738027"/>
+ <node id="2282633318" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:09Z" user="ansis" uid="1193517" lat="45.5141459" lon="-73.5739826"/>
+ <node id="2282633378" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5148839" lon="-73.5734210"/>
+ <node id="2282633379" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5150689" lon="-73.5738404"/>
+ <node id="2282633380" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5149366" lon="-73.5739592"/>
+ <node id="2282633381" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5147516" lon="-73.5735398"/>
+ <node id="2282633382" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5148897" lon="-73.5734161"/>
+ <node id="2282633383" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5148217" lon="-73.5732664"/>
+ <node id="2282633384" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5148085" lon="-73.5732773"/>
+ <node id="2282633385" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5147736" lon="-73.5732026"/>
+ <node id="2282633386" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:10Z" user="ansis" uid="1193517" lat="45.5144400" lon="-73.5735046"/>
+ <node id="2282633388" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517" lat="45.5143671" lon="-73.5733481"/>
+ <node id="2282633389" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517" lat="45.5145217" lon="-73.5732121"/>
+ <node id="2282633390" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517" lat="45.5145317" lon="-73.5732339"/>
+ <node id="2282633391" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517" lat="45.5147118" lon="-73.5730732"/>
+ <node id="2282633387" visible="true" version="2" changeset="17272994" timestamp="2013-08-08T22:12:32Z" user="ansis" uid="1193517" lat="45.5145385" lon="-73.5737204"/>
+ <node id="269197137" visible="true" version="4" changeset="10564604" timestamp="2012-02-02T04:56:14Z" user="Antoine Beaupré" uid="22481" lat="45.5163308" lon="-73.5779816"/>
+ <node id="29794078" visible="true" version="3" changeset="10564604" timestamp="2012-02-02T04:56:14Z" user="Antoine Beaupré" uid="22481" lat="45.5154113" lon="-73.5759201"/>
+ <node id="874135130" visible="true" version="1" changeset="5562775" timestamp="2010-08-22T16:31:01Z" user="louism" uid="130408" lat="45.5156130" lon="-73.5710910">
+  <tag k="amenity" v="fountain"/>
+  <tag k="created_by" v="iLOE 1.8"/>
+ </node>
+ <node id="879918224" visible="true" version="2" changeset="11036789" timestamp="2012-03-20T01:36:32Z" user="tfitzg" uid="351713" lat="45.5189887" lon="-73.5809567"/>
+ <node id="29794338" visible="true" version="4" changeset="8442597" timestamp="2011-06-14T21:57:06Z" user="tfitzg" uid="351713" lat="45.5081052" lon="-73.5599880"/>
+ <node id="29794075" visible="true" version="7" changeset="9352177" timestamp="2011-09-20T15:03:02Z" user="mcwetboy" uid="223056" lat="45.5129869" lon="-73.5705368"/>
+ <node id="1271406198" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:51:02Z" user="wheelmap_visitor" uid="290680" lat="45.5166384" lon="-73.5709924">
+  <tag k="name" v="Pierre et Dominique Bed &amp; Breakfast"/>
+  <tag k="tourism" v="bed_and_breakfast"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="414448517" visible="true" version="3" changeset="8131410" timestamp="2011-05-13T12:55:53Z" user="moyogo" uid="246" lat="45.5200830" lon="-73.5870830"/>
+ <node id="414446723" visible="true" version="5" changeset="12640468" timestamp="2012-08-07T01:08:01Z" user="tfitzg" uid="351713" lat="45.5203400" lon="-73.5868586"/>
+ <node id="208863257" visible="true" version="4" changeset="8305861" timestamp="2011-05-31T21:21:21Z" user="tfitzg" uid="351713" lat="45.5179387" lon="-73.5696619"/>
+ <node id="293294416" visible="true" version="3" changeset="9465924" timestamp="2011-10-04T01:48:34Z" user="tfitzg" uid="351713" lat="45.5200669" lon="-73.5805380"/>
+ <node id="1417691400" visible="true" version="2" changeset="12640468" timestamp="2012-08-07T01:08:01Z" user="tfitzg" uid="351713" lat="45.5196376" lon="-73.5852924"/>
+ <node id="209046761" visible="true" version="4" changeset="10833962" timestamp="2012-03-01T01:18:46Z" user="tfitzg" uid="351713" lat="45.5210597" lon="-73.5855319"/>
+ <node id="29794081" visible="true" version="6" changeset="10255822" timestamp="2011-12-31T16:00:23Z" user="drukqs" uid="574729" lat="45.5190795" lon="-73.5840415">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1625835038" visible="true" version="1" changeset="10637987" timestamp="2012-02-09T20:39:50Z" user="tfitzg" uid="351713" lat="45.5184517" lon="-73.5835333"/>
+ <node id="1625835040" visible="true" version="1" changeset="10637987" timestamp="2012-02-09T20:39:50Z" user="tfitzg" uid="351713" lat="45.5184973" lon="-73.5834924"/>
+ <node id="1625835060" visible="true" version="1" changeset="10637987" timestamp="2012-02-09T20:39:50Z" user="tfitzg" uid="351713" lat="45.5181108" lon="-73.5828287"/>
+ <node id="1625835068" visible="true" version="1" changeset="10637987" timestamp="2012-02-09T20:39:50Z" user="tfitzg" uid="351713" lat="45.5181885" lon="-73.5827627"/>
+ <node id="1573345791" visible="true" version="2" changeset="10637987" timestamp="2012-02-09T20:39:51Z" user="tfitzg" uid="351713" lat="45.5179913" lon="-73.5825528"/>
+ <node id="1625835036" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:50Z" user="tfitzg" uid="351713" lat="45.5175504" lon="-73.5816725"/>
+ <node id="1625835056" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:50Z" user="tfitzg" uid="351713" lat="45.5175037" lon="-73.5817173"/>
+ <node id="1630577581" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:27Z" user="tfitzg" uid="351713" lat="45.5195668" lon="-73.5836447"/>
+ <node id="1630577591" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:27Z" user="tfitzg" uid="351713" lat="45.5198938" lon="-73.5844011"/>
+ <node id="1630577600" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5187061" lon="-73.5876841"/>
+ <node id="1630577611" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5188536" lon="-73.5836150"/>
+ <node id="1630577614" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5191572" lon="-73.5833497"/>
+ <node id="1630577615" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5190745" lon="-73.5841061"/>
+ <node id="1630577637" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5201870" lon="-73.5858978"/>
+ <node id="1630577639" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5175381" lon="-73.5887216"/>
+ <node id="1630577641" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5122229" lon="-73.5702468"/>
+ <node id="1630577642" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5202622" lon="-73.5858120"/>
+ <node id="1630577643" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:28Z" user="tfitzg" uid="351713" lat="45.5185489" lon="-73.5872617"/>
+ <node id="1630577645" visible="true" version="1" changeset="10669019" timestamp="2012-02-12T22:40:29Z" user="tfitzg" uid="351713" lat="45.5197069" lon="-73.5845967"/>
+ <node id="1630577603" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:48Z" user="tfitzg" uid="351713" lat="45.5184808" lon="-73.5819995"/>
+ <node id="1630577640" visible="true" version="2" changeset="11036789" timestamp="2012-03-20T01:36:32Z" user="tfitzg" uid="351713" lat="45.5185850" lon="-73.5822230"/>
+ <node id="1550039343" visible="true" version="1" changeset="10136680" timestamp="2011-12-17T09:08:45Z" user="andrewpmk" uid="1679" lat="45.5118793" lon="-73.5680934"/>
+ <node id="476659878" visible="true" version="3" changeset="10136773" timestamp="2011-12-17T09:22:42Z" user="andrewpmk" uid="1679" lat="45.5147078" lon="-73.5730606"/>
+ <node id="476659879" visible="true" version="3" changeset="10136773" timestamp="2011-12-17T09:22:42Z" user="andrewpmk" uid="1679" lat="45.5145339" lon="-73.5732124"/>
+ <node id="476659880" visible="true" version="3" changeset="10136773" timestamp="2011-12-17T09:22:42Z" user="andrewpmk" uid="1679" lat="45.5144356" lon="-73.5729831"/>
+ <node id="476659881" visible="true" version="3" changeset="10136773" timestamp="2011-12-17T09:22:42Z" user="andrewpmk" uid="1679" lat="45.5146095" lon="-73.5728314"/>
+ <node id="1550046162" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5144525" lon="-73.5722540"/>
+ <node id="1550046165" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5145722" lon="-73.5725293"/>
+ <node id="1550046166" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5146718" lon="-73.5723756"/>
+ <node id="1550046167" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5146924" lon="-73.5724229"/>
+ <node id="1550046168" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5146943" lon="-73.5720399"/>
+ <node id="1550046169" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5146965" lon="-73.5722796"/>
+ <node id="1550046170" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5147197" lon="-73.5723331"/>
+ <node id="1550046171" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679" lat="45.5147701" lon="-73.5722144"/>
+ <node id="208932148" visible="true" version="3" changeset="10160556" timestamp="2011-12-20T02:04:28Z" user="tfitzg" uid="351713" lat="45.5134538" lon="-73.5660633"/>
+ <node id="1559356844" visible="true" version="1" changeset="10187064" timestamp="2011-12-23T13:13:01Z" user="tfitzg" uid="351713" lat="45.5177479" lon="-73.5891921"/>
+ <node id="209027846" visible="true" version="5" changeset="10564604" timestamp="2012-02-02T04:56:14Z" user="Antoine Beaupré" uid="22481" lat="45.5159845" lon="-73.5772051">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1566771158" visible="true" version="2" changeset="10266548" timestamp="2012-01-01T22:40:55Z" user="tfitzg" uid="351713" lat="45.5135996" lon="-73.5763466"/>
+ <node id="29784599" visible="true" version="6" changeset="10256380" timestamp="2011-12-31T16:24:05Z" user="drukqs" uid="574729" lat="45.5180147" lon="-73.5816922">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="31705848" visible="true" version="3" changeset="10242092" timestamp="2011-12-30T05:02:27Z" user="drukqs" uid="574729" lat="45.5173454" lon="-73.5731638"/>
+ <node id="471062548" visible="true" version="3" changeset="10242092" timestamp="2011-12-30T05:02:29Z" user="drukqs" uid="574729" lat="45.5143211" lon="-73.5750130"/>
+ <node id="31705846" visible="true" version="4" changeset="10354125" timestamp="2012-01-10T19:01:28Z" user="tfitzg" uid="351713" lat="45.5164211" lon="-73.5739462"/>
+ <node id="29794080" visible="true" version="5" changeset="10255822" timestamp="2011-12-31T15:44:52Z" user="drukqs" uid="574729" lat="45.5169595" lon="-73.5793912">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1573345749" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:47Z" user="tfitzg" uid="351713" lat="45.5185637" lon="-73.5868054"/>
+ <node id="1573345784" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:48Z" user="tfitzg" uid="351713" lat="45.5146061" lon="-73.5748441"/>
+ <node id="1573345814" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:48Z" user="tfitzg" uid="351713" lat="45.5172750" lon="-73.5810615"/>
+ <node id="1573345821" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:49Z" user="tfitzg" uid="351713" lat="45.5123733" lon="-73.5709710"/>
+ <node id="1573345835" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:49Z" user="tfitzg" uid="351713" lat="45.5187106" lon="-73.5871123"/>
+ <node id="1573345837" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:49Z" user="tfitzg" uid="351713" lat="45.5148499" lon="-73.5754382"/>
+ <node id="1573345845" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:49Z" user="tfitzg" uid="351713" lat="45.5192368" lon="-73.5861950"/>
+ <node id="1573345846" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:49Z" user="tfitzg" uid="351713" lat="45.5187745" lon="-73.5842209"/>
+ <node id="1573345851" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:50Z" user="tfitzg" uid="351713" lat="45.5173614" lon="-73.5812331"/>
+ <node id="1573345853" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:50Z" user="tfitzg" uid="351713" lat="45.5145234" lon="-73.5748978"/>
+ <node id="1573345870" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:50Z" user="tfitzg" uid="351713" lat="45.5184772" lon="-73.5845041"/>
+ <node id="1573345872" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:50Z" user="tfitzg" uid="351713" lat="45.5157639" lon="-73.5775156"/>
+ <node id="1573345876" visible="true" version="1" changeset="10266548" timestamp="2012-01-01T22:40:50Z" user="tfitzg" uid="351713" lat="45.5132642" lon="-73.5729827"/>
+ <node id="31701561" visible="true" version="7" changeset="10266548" timestamp="2012-01-01T22:40:53Z" user="tfitzg" uid="351713" lat="45.5145686" lon="-73.5755056"/>
+ <node id="1563346406" visible="true" version="2" changeset="10266548" timestamp="2012-01-01T22:40:54Z" user="tfitzg" uid="351713" lat="45.5120653" lon="-73.5777410"/>
+ <node id="1573345849" visible="true" version="2" changeset="10637987" timestamp="2012-02-09T20:39:51Z" user="tfitzg" uid="351713" lat="45.5173713" lon="-73.5812828"/>
+ <node id="1573345833" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:47Z" user="tfitzg" uid="351713" lat="45.5170508" lon="-73.5812583"/>
+ <node id="1573441882" visible="true" version="1" changeset="10266932" timestamp="2012-01-01T23:53:23Z" user="drukqs" uid="574729" lat="45.5148159" lon="-73.5753027"/>
+ <node id="31706064" visible="true" version="8" changeset="10267628" timestamp="2012-01-02T03:37:05Z" user="drukqs" uid="574729" lat="45.5111999" lon="-73.5785391"/>
+ <node id="471062644" visible="true" version="3" changeset="10278004" timestamp="2012-01-03T02:03:37Z" user="drukqs" uid="574729" lat="45.5151309" lon="-73.5738601"/>
+ <node id="1574949201" visible="true" version="1" changeset="10278004" timestamp="2012-01-03T01:51:42Z" user="drukqs" uid="574729" lat="45.5121471" lon="-73.5776662"/>
+ <node id="1575098305" visible="true" version="1" changeset="10278496" timestamp="2012-01-03T06:01:06Z" user="drukqs" uid="574729" lat="45.5163545" lon="-73.5745871"/>
+ <node id="1584900348" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:24Z" user="tfitzg" uid="351713" lat="45.5159443" lon="-73.5701823"/>
+ <node id="1584900349" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:24Z" user="tfitzg" uid="351713" lat="45.5203532" lon="-73.5761312"/>
+ <node id="1584900351" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5167186" lon="-73.5681546"/>
+ <node id="1584900352" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5187258" lon="-73.5731381"/>
+ <node id="1584900353" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5163873" lon="-73.5711125"/>
+ <node id="1584900355" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5141851" lon="-73.5723764"/>
+ <node id="1584900356" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5164856" lon="-73.5677469"/>
+ <node id="1584900357" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5178388" lon="-73.5728485"/>
+ <node id="1584900358" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5175945" lon="-73.5722691"/>
+ <node id="1584900360" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5144160" lon="-73.5716202"/>
+ <node id="1584900361" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5211951" lon="-73.5785881"/>
+ <node id="1584900363" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5170526" lon="-73.5691384"/>
+ <node id="1584900365" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:25Z" user="tfitzg" uid="351713" lat="45.5146776" lon="-73.5727197"/>
+ <node id="1584900366" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5143618" lon="-73.5727626"/>
+ <node id="1584900367" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5148429" lon="-73.5725749"/>
+ <node id="1584900368" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5139966" lon="-73.5706780"/>
+ <node id="1584900369" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5214319" lon="-73.5783896"/>
+ <node id="1584900370" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5172104" lon="-73.5770634"/>
+ <node id="1584900371" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5158391" lon="-73.5680527"/>
+ <node id="1584900372" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5152452" lon="-73.5683316"/>
+ <node id="1584900373" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5173015" lon="-73.5772280"/>
+ <node id="1584900374" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5143693" lon="-73.5722101"/>
+ <node id="1584900376" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5204133" lon="-73.5784862"/>
+ <node id="1584900377" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5157859" lon="-73.5704903"/>
+ <node id="1584900378" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5168389" lon="-73.5686589"/>
+ <node id="1584900380" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:26Z" user="tfitzg" uid="351713" lat="45.5182034" lon="-73.5736156"/>
+ <node id="1584900381" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5206426" lon="-73.5789314"/>
+ <node id="1584900382" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5209395" lon="-73.5779980"/>
+ <node id="1584900383" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5155647" lon="-73.5747260"/>
+ <node id="1584900384" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5165828" lon="-73.5682050"/>
+ <node id="1584900385" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5175976" lon="-73.5700289"/>
+ <node id="1584900386" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5147565" lon="-73.5685784"/>
+ <node id="1584900390" visible="true" version="2" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5141958" lon="-73.5718311"/>
+ <node id="1584900388" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5135950" lon="-73.5710997"/>
+ <node id="1584900389" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5147415" lon="-73.5722906"/>
+ <node id="1584900391" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5159362" lon="-73.5708175"/>
+ <node id="1584900392" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5183537" lon="-73.5723657"/>
+ <node id="1584900393" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5185755" lon="-73.5721565"/>
+ <node id="1584900394" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5158842" lon="-73.5708690"/>
+ <node id="1584900395" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5144708" lon="-73.5717434"/>
+ <node id="1584900397" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5159669" lon="-73.5710728"/>
+ <node id="1584900398" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713" lat="45.5147664" lon="-73.5723604"/>
+ <node id="1584900387" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:32Z" user="tfitzg" uid="351713" lat="45.5126458" lon="-73.5692180"/>
+ <node id="1584900379" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:33Z" user="tfitzg" uid="351713" lat="45.5125207" lon="-73.5694569"/>
+ <node id="31705847" visible="true" version="5" changeset="10354125" timestamp="2012-01-10T19:01:28Z" user="tfitzg" uid="351713" lat="45.5168772" lon="-73.5735576"/>
+ <node id="31705849" visible="true" version="4" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5178454" lon="-73.5727201"/>
+ <node id="31705850" visible="true" version="5" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5183001" lon="-73.5723242"/>
+ <node id="208932411" visible="true" version="4" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5163239" lon="-73.5751177"/>
+ <node id="208932442" visible="true" version="5" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5181432" lon="-73.5763108"/>
+ <node id="476659839" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5159366" lon="-73.5744872">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659834" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:29Z" user="tfitzg" uid="351713" lat="45.5162862" lon="-73.5741949">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="117"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659838" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:30Z" user="tfitzg" uid="351713" lat="45.5157581" lon="-73.5746482">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="476659836" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:31Z" user="tfitzg" uid="351713" lat="45.5160645" lon="-73.5743745">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="459929693" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:31Z" user="tfitzg" uid="351713" lat="45.5168341" lon="-73.5705136"/>
+ <node id="476659835" visible="true" version="2" changeset="10354125" timestamp="2012-01-10T19:01:31Z" user="tfitzg" uid="351713" lat="45.5161942" lon="-73.5742833">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="addr:street" v="Avenue des Pins"/>
+ </node>
+ <node id="1584900359" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:48Z" user="tfitzg" uid="351713" lat="45.5173758" lon="-73.5781076"/>
+ <node id="1584900362" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:50Z" user="tfitzg" uid="351713" lat="45.5184029" lon="-73.5810555"/>
+ <node id="1584900364" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:50Z" user="tfitzg" uid="351713" lat="45.5167536" lon="-73.5767403"/>
+ <node id="1646288667" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:55:12Z" user="wheelmap_visitor" uid="290680" lat="45.5148342" lon="-73.5743631">
+  <tag k="amenity" v="atm"/>
+  <tag k="name" v="CIBC ATM Marché 4 frères"/>
+  <tag k="operator" v="CIBC"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="1653821642" visible="true" version="1" changeset="10833962" timestamp="2012-03-01T01:18:45Z" user="tfitzg" uid="351713" lat="45.5203208" lon="-73.5862115"/>
+ <node id="1653821645" visible="true" version="1" changeset="10833962" timestamp="2012-03-01T01:18:45Z" user="tfitzg" uid="351713" lat="45.5203957" lon="-73.5861397"/>
+ <node id="237602091" visible="true" version="3" changeset="10833962" timestamp="2012-03-01T01:18:47Z" user="tfitzg" uid="351713" lat="45.5219751" lon="-73.5846879">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="293294487" visible="true" version="5" changeset="10833962" timestamp="2012-03-01T01:18:47Z" user="tfitzg" uid="351713" lat="45.5205863" lon="-73.5844710"/>
+ <node id="1573345860" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:48Z" user="tfitzg" uid="351713" lat="45.5164218" lon="-73.5798901"/>
+ <node id="1630577609" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:49Z" user="tfitzg" uid="351713" lat="45.5186421" lon="-73.5821634"/>
+ <node id="1584900350" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:49Z" user="tfitzg" uid="351713" lat="45.5171535" lon="-73.5783050"/>
+ <node id="1573345871" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:49Z" user="tfitzg" uid="351713" lat="45.5166812" lon="-73.5796464"/>
+ <node id="1630577618" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:51Z" user="tfitzg" uid="351713" lat="45.5182509" lon="-73.5822122"/>
+ <node id="1584900354" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:51Z" user="tfitzg" uid="351713" lat="45.5170278" lon="-73.5773333"/>
+ <node id="1584900396" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:51Z" user="tfitzg" uid="351713" lat="45.5165444" lon="-73.5769390"/>
+ <node id="1630577586" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:52Z" user="tfitzg" uid="351713" lat="45.5184891" lon="-73.5812435"/>
+ <node id="1630577589" visible="true" version="2" changeset="10988081" timestamp="2012-03-15T12:57:52Z" user="tfitzg" uid="351713" lat="45.5180150" lon="-73.5816913"/>
+ <node id="458918556" visible="true" version="4" changeset="11804723" timestamp="2012-06-05T15:00:21Z" user="wheelmap_visitor" uid="290680" lat="45.5157662" lon="-73.5709745">
+  <tag k="name" v="Dépanneur Prince Arthur"/>
+  <tag k="shop" v="convenience"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="459929786" visible="true" version="2" changeset="11142017" timestamp="2012-03-29T18:32:28Z" user="fbmtl" uid="642362" lat="45.5162998" lon="-73.5702504">
+  <tag k="historic" v="monument"/>
+  <tag k="name" v="Monument Émile Nelligan"/>
+ </node>
+ <node id="1768204854" visible="true" version="1" changeset="11721695" timestamp="2012-05-28T00:26:22Z" user="PurpleMustang" uid="28895" lat="45.5165852" lon="-73.5696361"/>
+ <node id="458919706" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:58:17Z" user="wheelmap_visitor" uid="290680" lat="45.5146496" lon="-73.5718179">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Caprice"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="458919707" visible="true" version="3" changeset="14812581" timestamp="2013-01-27T19:14:23Z" user="Frédéric Latour" uid="203628" lat="45.5148541" lon="-73.5716205">
+  <tag k="disused" v="yes"/>
+  <tag k="disused:amenity" v="restaurant"/>
+  <tag k="disused:cuisine" v="greek"/>
+  <tag k="disused:wheelchair" v="limited"/>
+  <tag k="name" v="La Cabane grecque"/>
+ </node>
+ <node id="459929702" visible="true" version="3" changeset="15106656" timestamp="2013-02-21T00:13:33Z" user="Frédéric Latour" uid="203628" lat="45.5164590" lon="-73.5703700">
+  <tag k="amenity" v="cafe"/>
+  <tag k="cuisine" v="crepe"/>
+  <tag k="name" v="Kiosque La bulle au carré"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="874136029" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:52:04Z" user="wheelmap_visitor" uid="290680" lat="45.5158390" lon="-73.5719030">
+  <tag k="amenity" v="drinking_water"/>
+  <tag k="created_by" v="iLOE 1.8"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="874171759" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:52:05Z" user="wheelmap_visitor" uid="290680" lat="45.5159630" lon="-73.5718760">
+  <tag k="leisure" v="playground"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="471064844" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:55:12Z" user="wheelmap_visitor" uid="290680" lat="45.5148061" lon="-73.5743777">
+  <tag k="name" v="Marché 4 frères"/>
+  <tag k="shop" v="supermarket"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="471063618" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:55:11Z" user="wheelmap_visitor" uid="290680" lat="45.5145355" lon="-73.5741373">
+  <tag k="amenity" v="bar"/>
+  <tag k="name" v="Bar Biftek"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="471064732" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:55:12Z" user="wheelmap_visitor" uid="290680" lat="45.5146918" lon="-73.5741288">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Café noir"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="458918546" visible="true" version="3" changeset="11804723" timestamp="2012-06-05T14:58:16Z" user="wheelmap_visitor" uid="290680" lat="45.5146077" lon="-73.5720884">
+  <tag k="amenity" v="bar"/>
+  <tag k="name" v="Café Campus"/>
+  <tag k="website" v="http://www.cafecampus.com"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="458918548" visible="true" version="3" changeset="15106697" timestamp="2013-02-21T00:22:40Z" user="Frédéric Latour" uid="203628" lat="45.5147990" lon="-73.5718760">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="italian"/>
+  <tag k="name" v="Primo Amore"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="458919700" visible="true" version="2" changeset="11804723" timestamp="2012-06-05T14:59:19Z" user="wheelmap_visitor" uid="290680" lat="45.5153172" lon="-73.5712085">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="ice_cream"/>
+  <tag k="name" v="Crèmerie Bretonne"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="458919699" visible="true" version="3" changeset="15106693" timestamp="2013-02-21T00:21:45Z" user="Frédéric Latour" uid="203628" lat="45.5152450" lon="-73.5712690">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="pizza"/>
+  <tag k="name" v="Pizza exquise"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="458919691" visible="true" version="4" changeset="15106689" timestamp="2013-02-21T00:21:17Z" user="Frédéric Latour" uid="203628" lat="45.5157070" lon="-73.5708230">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="greek"/>
+  <tag k="name" v="Casa grecque"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="1784832900" visible="true" version="1" changeset="11876220" timestamp="2012-06-12T16:39:24Z" user="tfitzg" uid="351713" lat="45.5174367" lon="-73.5821209"/>
+ <node id="1784832907" visible="true" version="1" changeset="11876220" timestamp="2012-06-12T16:39:25Z" user="tfitzg" uid="351713" lat="45.5175326" lon="-73.5822824"/>
+ <node id="1573345789" visible="true" version="4" changeset="11876220" timestamp="2012-06-12T16:39:26Z" user="tfitzg" uid="351713" lat="45.5173939" lon="-73.5820449"/>
+ <node id="1573345844" visible="true" version="4" changeset="11876220" timestamp="2012-06-12T16:39:26Z" user="tfitzg" uid="351713" lat="45.5175728" lon="-73.5818783"/>
+ <node id="1573345756" visible="true" version="4" changeset="11876220" timestamp="2012-06-12T16:39:26Z" user="tfitzg" uid="351713" lat="45.5177567" lon="-73.5827722"/>
+ <node id="1797236617" visible="true" version="1" changeset="11970751" timestamp="2012-06-21T17:02:46Z" user="dlb_" uid="709422" lat="45.5179283" lon="-73.5707775"/>
+ <node id="1797236618" visible="true" version="1" changeset="11970751" timestamp="2012-06-21T17:02:46Z" user="dlb_" uid="709422" lat="45.5181628" lon="-73.5705670"/>
+ <node id="1584900375" visible="true" version="2" changeset="11970751" timestamp="2012-06-21T17:02:46Z" user="dlb_" uid="709422" lat="45.5185479" lon="-73.5714015"/>
+ <node id="1855120502" visible="true" version="1" changeset="12640468" timestamp="2012-08-07T01:07:53Z" user="tfitzg" uid="351713" lat="45.5210306" lon="-73.5883807"/>
+ <node id="1855120566" visible="true" version="1" changeset="12640468" timestamp="2012-08-07T01:07:55Z" user="tfitzg" uid="351713" lat="45.5206475" lon="-73.5875298"/>
+ <node id="26232428" visible="true" version="10" changeset="12640468" timestamp="2012-08-07T01:07:59Z" user="tfitzg" uid="351713" lat="45.5201178" lon="-73.5863671">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1859341275" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:29Z" user="tfitzg" uid="351713" lat="45.5146082" lon="-73.5686403"/>
+ <node id="1859341276" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:29Z" user="tfitzg" uid="351713" lat="45.5122571" lon="-73.5675002"/>
+ <node id="1859341279" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:29Z" user="tfitzg" uid="351713" lat="45.5127139" lon="-73.5693941"/>
+ <node id="1859341282" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:29Z" user="tfitzg" uid="351713" lat="45.5123666" lon="-73.5664397"/>
+ <node id="1859341284" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5125597" lon="-73.5690021"/>
+ <node id="1859341286" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5132254" lon="-73.5667069"/>
+ <node id="1859341287" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5128753" lon="-73.5665184"/>
+ <node id="1859341289" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5133121" lon="-73.5666211"/>
+ <node id="1859341295" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5128642" lon="-73.5688203"/>
+ <node id="1859341296" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5136047" lon="-73.5664732"/>
+ <node id="1859341297" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5126839" lon="-73.5671008"/>
+ <node id="1859341299" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5133493" lon="-73.5666984"/>
+ <node id="1859341301" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5130502" lon="-73.5663921"/>
+ <node id="1859341302" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:30Z" user="tfitzg" uid="351713" lat="45.5127255" lon="-73.5699306"/>
+ <node id="1859341317" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:31Z" user="tfitzg" uid="351713" lat="45.5129573" lon="-73.5697334"/>
+ <node id="1859341322" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:31Z" user="tfitzg" uid="351713" lat="45.5139448" lon="-73.5672259"/>
+ <node id="1859341324" visible="true" version="1" changeset="12673081" timestamp="2012-08-09T20:05:31Z" user="tfitzg" uid="351713" lat="45.5127831" lon="-73.5663440"/>
+ <node id="509330292" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:32Z" user="tfitzg" uid="351713" lat="45.5131924" lon="-73.5654704"/>
+ <node id="509330300" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:32Z" user="tfitzg" uid="351713" lat="45.5132828" lon="-73.5656754"/>
+ <node id="1630577638" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:32Z" user="tfitzg" uid="351713" lat="45.5119489" lon="-73.5696971"/>
+ <node id="509330260" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:33Z" user="tfitzg" uid="351713" lat="45.5130405" lon="-73.5651258"/>
+ <node id="509330278" visible="true" version="2" changeset="12673081" timestamp="2012-08-09T20:05:33Z" user="tfitzg" uid="351713" lat="45.5133653" lon="-73.5658625"/>
+ <node id="2312189062" visible="true" version="1" changeset="16201714" timestamp="2013-05-20T00:54:37Z" user="phmongeau" uid="108927" lat="45.5142033" lon="-73.5677086"/>
+ <node id="2316587556" visible="true" version="1" changeset="16245988" timestamp="2013-05-22T23:51:11Z" user="benwah" uid="1476673" lat="45.5205053" lon="-73.5863775"/>
+ <node id="2316587557" visible="true" version="1" changeset="16245988" timestamp="2013-05-22T23:51:11Z" user="benwah" uid="1476673" lat="45.5204280" lon="-73.5862098"/>
+ <node id="2316633139" visible="true" version="1" changeset="16246693" timestamp="2013-05-23T03:07:22Z" user="Frédéric Latour" uid="203628" lat="45.5151780" lon="-73.5714850">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="131"/>
+  <tag k="addr:postcode" v="H2X 1B6"/>
+  <tag k="addr:street" v="Rue Prince-Arthur Est"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Café Sierra Colombia"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="phone" v="514-508-6563"/>
+ </node>
+ <node id="1996184907" visible="true" version="1" changeset="13740258" timestamp="2012-11-03T22:18:23Z" user="tfitzg" uid="351713" lat="45.5076735" lon="-73.5590460"/>
+ <node id="458919705" visible="true" version="4" changeset="16098670" timestamp="2013-05-12T16:52:06Z" user="Frédéric Latour" uid="203628" lat="45.5145714" lon="-73.5718951">
+  <tag k="disused" v="yes"/>
+  <tag k="disused:amenity" v="restaurant"/>
+  <tag k="disused:cuisine" v="polish"/>
+  <tag k="disused:wheelchair" v="limited"/>
+  <tag k="old_name" v="Mazurka"/>
+ </node>
+ <node id="458919698" visible="true" version="3" changeset="14812581" timestamp="2013-01-27T19:14:23Z" user="Frédéric Latour" uid="203628" lat="45.5150761" lon="-73.5714055">
+  <tag k="disused" v="yes"/>
+  <tag k="disused:amenity" v="restaurant"/>
+  <tag k="disused:cuisine" v="mexican"/>
+  <tag k="disused:wheelchair" v="yes"/>
+  <tag k="name" v="Tamales"/>
+ </node>
+ <node id="458919704" visible="true" version="3" changeset="14812581" timestamp="2013-01-27T19:14:23Z" user="Frédéric Latour" uid="203628" lat="45.5144391" lon="-73.5720239">
+  <tag k="disused" v="yes"/>
+  <tag k="disused:amenity" v="restaurant"/>
+  <tag k="disused:cuisine" v="greek"/>
+  <tag k="disused:wheelchair" v="limited"/>
+  <tag k="old_name" v="Le Prince-Arthur"/>
+ </node>
+ <node id="2148352591" visible="true" version="1" changeset="14973847" timestamp="2013-02-09T22:55:53Z" user="saintam1" uid="417398" lat="45.5176145" lon="-73.5729250"/>
+ <node id="2148352598" visible="true" version="1" changeset="14973847" timestamp="2013-02-09T22:55:54Z" user="saintam1" uid="417398" lat="45.5189159" lon="-73.5729177"/>
+ <node id="2148357495" visible="true" version="1" changeset="14973847" timestamp="2013-02-09T22:59:08Z" user="saintam1" uid="417398" lat="45.5178330" lon="-73.5756360"/>
+ <node id="2148359441" visible="true" version="1" changeset="14973847" timestamp="2013-02-09T23:00:45Z" user="saintam1" uid="417398" lat="45.5175341" lon="-73.5735654"/>
+ <node id="2160298916" visible="true" version="1" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5142153" lon="-73.5718152"/>
+ <node id="2160298919" visible="true" version="1" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5146428" lon="-73.5714068"/>
+ <node id="458940523" visible="true" version="3" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5139902" lon="-73.5707066"/>
+ <node id="458940518" visible="true" version="3" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5142282" lon="-73.5717614"/>
+ <node id="458940521" visible="true" version="3" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628" lat="45.5144133" lon="-73.5716211"/>
+ <node id="2229684282" visible="true" version="2" changeset="15522235" timestamp="2013-03-28T02:04:14Z" user="Frédéric Latour" uid="203628" lat="45.5171297" lon="-73.5775565"/>
+ <node id="2229684284" visible="true" version="2" changeset="15522235" timestamp="2013-03-28T02:04:14Z" user="Frédéric Latour" uid="203628" lat="45.5171806" lon="-73.5776723"/>
+ <node id="2411533084" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5145704" lon="-73.5737951"/>
+ <node id="2411533085" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147575" lon="-73.5736326"/>
+ <node id="2411533086" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147257" lon="-73.5735579"/>
+ <node id="2411533087" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5145991" lon="-73.5738624"/>
+ <node id="2411533088" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147689" lon="-73.5737147"/>
+ <node id="2411533089" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147402" lon="-73.5736474"/>
+ <node id="2411533090" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5146223" lon="-73.5739173"/>
+ <node id="2411533091" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147208" lon="-73.5738292"/>
+ <node id="2411533092" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5146977" lon="-73.5737777"/>
+ <node id="2411533093" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5146623" lon="-73.5740085"/>
+ <node id="2411533094" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147614" lon="-73.5739209"/>
+ <node id="2411533095" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5148162" lon="-73.5738714"/>
+ <node id="2411533096" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147526" lon="-73.5737281"/>
+ <node id="2411533097" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5146715" lon="-73.5740004"/>
+ <node id="2411533098" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147258" lon="-73.5741245"/>
+ <node id="2411533099" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147835" lon="-73.5740739"/>
+ <node id="2411533100" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:30Z" user="ansis" uid="1193517" lat="45.5147902" lon="-73.5740865"/>
+ <node id="2411533101" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517" lat="45.5148643" lon="-73.5740200"/>
+ <node id="2411533102" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517" lat="45.5148035" lon="-73.5738828"/>
+ <node id="2411533103" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517" lat="45.5148391" lon="-73.5738507"/>
+ <node id="2411533104" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517" lat="45.5148999" lon="-73.5739879"/>
+ <node id="2428616041" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:26:12Z" user="procyon43" uid="1634734" lat="45.5148158" lon="-73.5742626">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:street" v="Rue Guilbault Est"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428617070" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:09Z" user="procyon43" uid="1634734" lat="45.5150554" lon="-73.5740506">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:street" v="Rue Guilbault Est"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618122" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:45Z" user="procyon43" uid="1634734" lat="45.5162577" lon="-73.5691351">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3450"/>
+  <tag k="addr:street" v="Avenue Henri-Julien"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618140" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:45Z" user="procyon43" uid="1634734" lat="45.5164662" lon="-73.5695867">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3462"/>
+  <tag k="addr:street" v="Avenue Henri-Julien"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618373" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:57Z" user="procyon43" uid="1634734" lat="45.5162643" lon="-73.5705202">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3603"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618374" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:57Z" user="procyon43" uid="1634734" lat="45.5164101" lon="-73.5708413">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3603"/>
+  <tag k="addr:street" v="Avenue Laval"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618385" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:27:58Z" user="procyon43" uid="1634734" lat="45.5145202" lon="-73.5722771">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3609"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618981" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:12Z" user="procyon43" uid="1634734" lat="45.5159574" lon="-73.5745329">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3750"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618994" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:13Z" user="procyon43" uid="1634734" lat="45.5161101" lon="-73.5744042">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3751"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428619015" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:13Z" user="procyon43" uid="1634734" lat="45.5161765" lon="-73.5750094">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3752"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428619019" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:13Z" user="procyon43" uid="1634734" lat="45.5164118" lon="-73.5741515">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3752"/>
+  <tag k="addr:street" v="Rue De Bullion"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428619103" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:15Z" user="procyon43" uid="1634734" lat="45.5163299" lon="-73.5748824">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3781"/>
+  <tag k="addr:street" v="Avenue Coloniale"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428619112" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:16Z" user="procyon43" uid="1634734" lat="45.5166345" lon="-73.5746365">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3788"/>
+  <tag k="addr:street" v="Rue De Bullion"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618888" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:11Z" user="procyon43" uid="1634734" lat="45.5151174" lon="-73.5740700">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3732"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428618914" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:28:11Z" user="procyon43" uid="1634734" lat="45.5153608" lon="-73.5745971">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="3740"/>
+  <tag k="addr:street" v="Rue Saint-Dominique"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="2428622735" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:31:21Z" user="procyon43" uid="1634734" lat="45.5147425" lon="-73.5720006">
+  <tag k="addr:city" v="Montréal"/>
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="addr:street" v="Rue Prince-Arthur Est"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </node>
+ <node id="1559356916" visible="true" version="3" changeset="17802220" timestamp="2013-09-12T15:55:50Z" user="mataharimag" uid="1340053" lat="45.5205340" lon="-73.5864827"/>
+ <node id="1559357065" visible="true" version="2" changeset="17802220" timestamp="2013-09-12T15:55:52Z" user="mataharimag" uid="1340053" lat="45.5225716" lon="-73.5910853"/>
+ <node id="2458483887" visible="true" version="1" changeset="17839871" timestamp="2013-09-14T20:29:59Z" user="permute" uid="158267" lat="45.5144958" lon="-73.5748509"/>
+ <node id="458919689" visible="true" version="4" changeset="18170131" timestamp="2013-10-03T22:25:25Z" user="PierZen" uid="226516" lat="45.5155100" lon="-73.5710370">
+  <tag k="addr:housenumber" v="170"/>
+  <tag k="addr:postcode" v="H2X 1B7"/>
+  <tag k="addr:province" v="QC"/>
+  <tag k="addr:street" v="Rue Prince Arthur Est"/>
+  <tag k="addr:suburb" v="Le Plateau-Mont-Royal"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="french"/>
+  <tag k="internet_access" v="wlan"/>
+  <tag k="name" v="Les Deux Gamins"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="phone" v="(+1) 514 288 3389"/>
+  <tag k="website" v="www.lesdeuxgaminsmontreal.com"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="471064790" visible="true" version="3" changeset="18170131" timestamp="2013-10-03T22:35:50Z" user="PierZen" uid="226516" lat="45.5147520" lon="-73.5742661">
+  <tag k="addr:housenumber" v="3695"/>
+  <tag k="addr:postcode" v="H2X 2V7"/>
+  <tag k="addr:province" v="QC"/>
+  <tag k="addr:street" v="Boulevard Saint-Laurent"/>
+  <tag k="addr:suburb" v="Le Plateau-Mont-Royal"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="internet_access" v="wlan"/>
+  <tag k="name" v="Second Cup"/>
+  <tag k="phone" v="514 564 9270"/>
+  <tag k="website" v="www.secondcup.com"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2501280964" visible="true" version="1" changeset="18428121" timestamp="2013-10-19T01:40:28Z" user="BrunoRemy" uid="595246" lat="45.5148190" lon="-73.5743000">
+  <tag k="addr:housenumber" v="3695"/>
+  <tag k="addr:postcode" v="H2X 2V7"/>
+  <tag k="addr:province" v="QC"/>
+  <tag k="addr:street" v="Boulevard Saint-Laurent"/>
+  <tag k="addr:suburb" v="Le Plateau-Mont-Royal"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="internet_access" v="wlan"/>
+  <tag k="internet_access:fee" v="no"/>
+  <tag k="internet_access:operator" v="Île Sans Fil"/>
+  <tag k="name" v="Second Cup"/>
+  <tag k="phone" v="+1 514 564 9270"/>
+  <tag k="website" v="www.secondcup.com"/>
+ </node>
+ <node id="1630577606" visible="true" version="2" changeset="18703942" timestamp="2013-11-03T22:39:34Z" user="Serani" uid="1794514" lat="45.5216661" lon="-73.5917681"/>
+ <way id="4886374" visible="true" version="12" changeset="14973847" timestamp="2013-02-09T22:55:57Z" user="saintam1" uid="417398">
+  <nd ref="31706064"/>
+  <nd ref="31705722"/>
+  <nd ref="31705441"/>
+  <nd ref="1563346406"/>
+  <nd ref="1574949201"/>
+  <nd ref="31705840"/>
+  <nd ref="678766334"/>
+  <nd ref="1566771158"/>
+  <nd ref="31705842"/>
+  <nd ref="31705843"/>
+  <nd ref="31701561"/>
+  <nd ref="1573441882"/>
+  <nd ref="29794077"/>
+  <nd ref="31705844"/>
+  <nd ref="31705845"/>
+  <nd ref="476659828"/>
+  <nd ref="31705846"/>
+  <nd ref="31705847"/>
+  <nd ref="476659809"/>
+  <nd ref="31705848"/>
+  <nd ref="2148352591"/>
+  <nd ref="31705849"/>
+  <nd ref="31705850"/>
+  <nd ref="31705853"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenue des Pins"/>
+ </way>
+ <way id="4889343" visible="true" version="3" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954">
+  <nd ref="31776158"/>
+  <nd ref="31776155"/>
+  <nd ref="31776156"/>
+  <nd ref="31776157"/>
+  <nd ref="31776158"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Square Saint-Louis"/>
+ </way>
+ <way id="19903936" visible="true" version="3" changeset="2089068" timestamp="2009-08-09T19:12:05Z" user="pierlux" uid="61954">
+  <nd ref="459929699"/>
+  <nd ref="459929715"/>
+  <nd ref="459929702"/>
+  <nd ref="459929730"/>
+  <nd ref="459929710"/>
+  <nd ref="459929695"/>
+  <nd ref="208863264"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="27394455" visible="true" version="2" changeset="17028004" timestamp="2013-07-20T20:41:01Z" user="PierZen" uid="226516">
+  <nd ref="31705846"/>
+  <nd ref="208932403"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue de Bullion"/>
+ </way>
+ <way id="41551810" visible="true" version="2" changeset="3288766" timestamp="2009-12-04T15:16:39Z" user="jfd553" uid="101184">
+  <nd ref="208953151"/>
+  <nd ref="580995106"/>
+  <nd ref="208953156"/>
+  <nd ref="31776824"/>
+  <nd ref="458940567"/>
+  <nd ref="458940554"/>
+  <nd ref="31776109"/>
+  <nd ref="476659899"/>
+  <nd ref="476659900"/>
+  <nd ref="31705846"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue de Bullion"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="39761923" visible="true" version="2" changeset="14973847" timestamp="2013-02-09T23:00:45Z" user="saintam1" uid="417398">
+  <nd ref="2148359441"/>
+  <nd ref="476659840"/>
+  <nd ref="476659809"/>
+  <nd ref="476659859"/>
+  <nd ref="476659845"/>
+  <nd ref="476659844"/>
+  <nd ref="476659843"/>
+  <nd ref="476659842"/>
+  <nd ref="476659841"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="39761918" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:39Z" user="pierlux" uid="61954">
+  <nd ref="476659825"/>
+  <nd ref="476659823"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761916" visible="true" version="2" changeset="15007373" timestamp="2013-02-12T16:26:28Z" user="wheelmap_visitor" uid="290680">
+  <nd ref="476659824"/>
+  <nd ref="476659827"/>
+  <nd ref="476659826"/>
+  <nd ref="476659829"/>
+  <nd ref="476659824"/>
+  <tag k="amenity" v="theatre"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="4 sous"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="39761921" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:39Z" user="pierlux" uid="61954">
+  <nd ref="476659821"/>
+  <nd ref="476659820"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761922" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:39Z" user="pierlux" uid="61954">
+  <nd ref="476659828"/>
+  <nd ref="476659831"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761924" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:39Z" user="pierlux" uid="61954">
+  <nd ref="476659842"/>
+  <nd ref="476659846"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761926" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:39Z" user="pierlux" uid="61954">
+  <nd ref="476659844"/>
+  <nd ref="476659847"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761927" visible="true" version="3" changeset="15107340" timestamp="2013-02-21T03:34:03Z" user="Frédéric Latour" uid="203628">
+  <nd ref="476659848"/>
+  <nd ref="476659849"/>
+  <nd ref="476659850"/>
+  <nd ref="476659851"/>
+  <nd ref="476659903"/>
+  <nd ref="476659848"/>
+  <tag k="addr:housenumber" v="3711"/>
+  <tag k="addr:street" v="Rue de Bullion"/>
+  <tag k="amenity" v="school"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Centre d'éducation des adultes"/>
+  <tag k="name:en" v="High School of Montreal Adult Center"/>
+  <tag k="phone" v="+1 514-788-5937"/>
+  <tag k="wheelchair" v="limited"/>
+ </way>
+ <way id="39761928" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659852"/>
+  <nd ref="476659853"/>
+  <nd ref="476659854"/>
+  <nd ref="476659855"/>
+  <nd ref="476659852"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Parc de Bullion"/>
+ </way>
+ <way id="39761929" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659857"/>
+  <nd ref="476659856"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761930" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659899"/>
+  <nd ref="476659901"/>
+  <nd ref="476659858"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761931" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659861"/>
+  <nd ref="476659862"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761932" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659866"/>
+  <nd ref="476659865"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761933" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659868"/>
+  <nd ref="476659867"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761934" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659870"/>
+  <nd ref="476659871"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761935" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659873"/>
+  <nd ref="476659872"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761936" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659875"/>
+  <nd ref="476659874"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761937" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659878"/>
+  <nd ref="476659879"/>
+  <nd ref="476659880"/>
+  <nd ref="476659881"/>
+  <nd ref="476659878"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="39761938" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659882"/>
+  <nd ref="476659883"/>
+  <nd ref="476659884"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761939" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659889"/>
+  <nd ref="476659888"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761940" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659890"/>
+  <nd ref="476659886"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761942" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:40Z" user="pierlux" uid="61954">
+  <nd ref="476659891"/>
+  <nd ref="476659892"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="39761943" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954">
+  <nd ref="476659896"/>
+  <nd ref="476659895"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761944" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954">
+  <nd ref="476659898"/>
+  <nd ref="476659897"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="39761945" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954">
+  <nd ref="476659858"/>
+  <nd ref="476659860"/>
+  <nd ref="476659859"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="39761946" visible="true" version="1" changeset="2303018" timestamp="2009-08-29T16:36:41Z" user="pierlux" uid="61954">
+  <nd ref="476659900"/>
+  <nd ref="476659901"/>
+  <nd ref="476659902"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38717975" visible="true" version="1" changeset="2076736" timestamp="2009-08-08T16:16:48Z" user="pierlux" uid="61954">
+  <nd ref="458918557"/>
+  <nd ref="458918558"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38718508" visible="true" version="1" changeset="2076955" timestamp="2009-08-08T16:39:26Z" user="pierlux" uid="61954">
+  <nd ref="458940552"/>
+  <nd ref="458940554"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38718514" visible="true" version="2" changeset="2078799" timestamp="2009-08-08T20:08:34Z" user="pierlux" uid="61954">
+  <nd ref="458940566"/>
+  <nd ref="458940568"/>
+  <nd ref="458940567"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="38718503" visible="true" version="2" changeset="15071411" timestamp="2013-02-17T23:50:34Z" user="Frédéric Latour" uid="203628">
+  <nd ref="458940518"/>
+  <nd ref="458940521"/>
+  <nd ref="458940523"/>
+  <nd ref="458940525"/>
+  <nd ref="458940518"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="fee" v="yes"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="19908079" visible="true" version="10" changeset="15522235" timestamp="2013-03-28T02:04:14Z" user="Frédéric Latour" uid="203628">
+  <nd ref="209046761"/>
+  <nd ref="293294487"/>
+  <nd ref="209046751"/>
+  <nd ref="879918224"/>
+  <nd ref="208932417"/>
+  <nd ref="31777082"/>
+  <nd ref="1584900373"/>
+  <nd ref="208932422"/>
+  <nd ref="1584900370"/>
+  <nd ref="208932411"/>
+  <nd ref="31705845"/>
+  <nd ref="31776108"/>
+  <nd ref="2160298919"/>
+  <nd ref="458940552"/>
+  <nd ref="458940555"/>
+  <nd ref="458940559"/>
+  <nd ref="208932423"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Avenue Coloniale"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="38722607" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:12Z" user="pierlux" uid="61954">
+  <nd ref="459031089"/>
+  <nd ref="459031090"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38722608" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:12Z" user="pierlux" uid="61954">
+  <nd ref="459031091"/>
+  <nd ref="459031092"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38722612" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031112"/>
+  <nd ref="459031110"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722615" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031126"/>
+  <nd ref="459031125"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38722616" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031128"/>
+  <nd ref="459031127"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38722617" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031130"/>
+  <nd ref="459031129"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722618" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031132"/>
+  <nd ref="459031131"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722619" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031142"/>
+  <nd ref="459031141"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722620" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:13Z" user="pierlux" uid="61954">
+  <nd ref="459031146"/>
+  <nd ref="459031144"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722621" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:14Z" user="pierlux" uid="61954">
+  <nd ref="459031150"/>
+  <nd ref="459031148"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38722622" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:14Z" user="pierlux" uid="61954">
+  <nd ref="459031153"/>
+  <nd ref="459031155"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38722623" visible="true" version="1" changeset="2077558" timestamp="2009-08-08T17:46:14Z" user="pierlux" uid="61954">
+  <nd ref="459031157"/>
+  <nd ref="459031159"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38730368" visible="true" version="1" changeset="2078763" timestamp="2009-08-08T20:05:02Z" user="pierlux" uid="61954">
+  <nd ref="459156471"/>
+  <nd ref="459156470"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38778056" visible="true" version="2" changeset="8042875" timestamp="2011-05-03T19:26:27Z" user="Spontex" uid="115737">
+  <nd ref="459929586"/>
+  <nd ref="1271406198"/>
+  <nd ref="459929584"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38778036" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:11:59Z" user="pierlux" uid="61954">
+  <nd ref="31705848"/>
+  <nd ref="208863264"/>
+  <nd ref="459929706"/>
+  <nd ref="31776111"/>
+  <nd ref="208863270"/>
+  <nd ref="459929516"/>
+  <nd ref="459929470"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Avenue Laval"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="38778046" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929513"/>
+  <nd ref="459929510"/>
+  <nd ref="459929514"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="38778047" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929516"/>
+  <nd ref="459929514"/>
+  <nd ref="459929518"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="38778049" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929525"/>
+  <nd ref="459929521"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38778050" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929549"/>
+  <nd ref="459929528"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38778051" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929556"/>
+  <nd ref="459929553"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38778052" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:00Z" user="pierlux" uid="61954">
+  <nd ref="459929563"/>
+  <nd ref="459929560"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="38778054" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:01Z" user="pierlux" uid="61954">
+  <nd ref="459929577"/>
+  <nd ref="459929574"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="38778078" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:02Z" user="pierlux" uid="61954">
+  <nd ref="459929685"/>
+  <nd ref="459929693"/>
+  <nd ref="459929708"/>
+  <nd ref="459929695"/>
+  <nd ref="459929704"/>
+  <nd ref="459929712"/>
+  <nd ref="459929697"/>
+  <nd ref="459929699"/>
+  <nd ref="459929686"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38778079" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:02Z" user="pierlux" uid="61954">
+  <nd ref="208863264"/>
+  <nd ref="208863259"/>
+  <nd ref="182070159"/>
+  <nd ref="459929677"/>
+  <nd ref="208863257"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue du Square-Saint-Louis"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="38778080" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:02Z" user="pierlux" uid="61954">
+  <nd ref="459929693"/>
+  <nd ref="459929732"/>
+  <nd ref="459929702"/>
+  <nd ref="459929713"/>
+  <nd ref="459929697"/>
+  <nd ref="208863270"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38778081" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:02Z" user="pierlux" uid="61954">
+  <nd ref="459929702"/>
+  <nd ref="459929704"/>
+  <nd ref="459929706"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38778082" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:02Z" user="pierlux" uid="61954">
+  <nd ref="208863259"/>
+  <nd ref="459929708"/>
+  <nd ref="459929710"/>
+  <nd ref="459929727"/>
+  <nd ref="459929704"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="4889333" visible="true" version="7" changeset="12187955" timestamp="2012-07-11T16:53:15Z" user="Zethradon" uid="529114">
+  <nd ref="31776104"/>
+  <nd ref="31776107"/>
+  <nd ref="31776108"/>
+  <nd ref="31776109"/>
+  <nd ref="458918557"/>
+  <nd ref="31776110"/>
+  <nd ref="476659841"/>
+  <nd ref="31776111"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="no"/>
+  <tag k="cycleway" v="no"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="motor_vehicle" v="no"/>
+  <tag k="name" v="Rue Prince-Arthur Est"/>
+ </way>
+ <way id="38778083" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:03Z" user="pierlux" uid="61954">
+  <nd ref="31776111"/>
+  <nd ref="459929712"/>
+  <nd ref="459929713"/>
+  <nd ref="459929715"/>
+  <nd ref="459929726"/>
+  <nd ref="459929784"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="38778084" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:03Z" user="pierlux" uid="61954">
+  <nd ref="459929727"/>
+  <nd ref="459929730"/>
+  <nd ref="459929732"/>
+  <nd ref="459929734"/>
+  <nd ref="459929785"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="38778089" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:03Z" user="pierlux" uid="61954">
+  <nd ref="459929781"/>
+  <nd ref="459929699"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="38778093" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:04Z" user="pierlux" uid="61954">
+  <nd ref="459929811"/>
+  <nd ref="459929812"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="38778096" visible="true" version="1" changeset="2089068" timestamp="2009-08-09T19:12:04Z" user="pierlux" uid="61954">
+  <nd ref="459929819"/>
+  <nd ref="459929820"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="19903940" visible="true" version="5" changeset="2089068" timestamp="2009-08-09T19:12:06Z" user="pierlux" uid="61954">
+  <nd ref="459929676"/>
+  <nd ref="459929699"/>
+  <nd ref="459929726"/>
+  <nd ref="459929734"/>
+  <nd ref="459929693"/>
+  <nd ref="208863259"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="39318128" visible="true" version="4" changeset="15546959" timestamp="2013-03-30T03:54:01Z" user="Frédéric Latour" uid="203628">
+  <nd ref="471062644"/>
+  <nd ref="471062913"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue Guilbault Est"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="39318106" visible="true" version="6" changeset="17839871" timestamp="2013-09-14T20:29:59Z" user="permute" uid="158267">
+  <nd ref="471062551"/>
+  <nd ref="678766352"/>
+  <nd ref="471062548"/>
+  <nd ref="2458483887"/>
+  <nd ref="471062543"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue Guilbault Ouest"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="141607855" visible="true" version="1" changeset="10136775" timestamp="2011-12-17T09:23:11Z" user="andrewpmk" uid="1679">
+  <nd ref="1550046171"/>
+  <nd ref="1550046168"/>
+  <nd ref="1550046162"/>
+  <nd ref="1550046165"/>
+  <nd ref="1550046167"/>
+  <nd ref="1550046166"/>
+  <nd ref="1550046170"/>
+  <nd ref="1550046169"/>
+  <nd ref="1550046171"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="27544889" visible="true" version="7" changeset="15071411" timestamp="2013-02-17T23:50:34Z" user="Frédéric Latour" uid="203628">
+  <nd ref="31705844"/>
+  <nd ref="471062644"/>
+  <nd ref="476659882"/>
+  <nd ref="31776107"/>
+  <nd ref="2160298916"/>
+  <nd ref="458940560"/>
+  <nd ref="31776823"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rue Saint-Dominique"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="19908073" visible="true" version="13" changeset="16201714" timestamp="2013-05-20T00:54:38Z" user="phmongeau" uid="108927">
+  <nd ref="237602091"/>
+  <nd ref="209046758"/>
+  <nd ref="293294416"/>
+  <nd ref="208932355"/>
+  <nd ref="31777084"/>
+  <nd ref="208932442"/>
+  <nd ref="2148357495"/>
+  <nd ref="208932338"/>
+  <nd ref="31705847"/>
+  <nd ref="476659858"/>
+  <nd ref="476659847"/>
+  <nd ref="476659902"/>
+  <nd ref="476659846"/>
+  <nd ref="31776110"/>
+  <nd ref="458940565"/>
+  <nd ref="458940564"/>
+  <nd ref="458940566"/>
+  <nd ref="31776825"/>
+  <nd ref="2312189062"/>
+  <nd ref="208932140"/>
+  <nd ref="208932148"/>
+  <nd ref="509330278"/>
+  <nd ref="509330300"/>
+  <nd ref="509330292"/>
+  <nd ref="509330260"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Avenue de l'Hôtel de Ville"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="219056762" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633295"/>
+  <nd ref="2282633296"/>
+  <nd ref="2282633297"/>
+  <nd ref="2282633298"/>
+  <nd ref="2282633295"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056763" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633296"/>
+  <nd ref="2282633299"/>
+  <nd ref="2282633300"/>
+  <nd ref="2282633297"/>
+  <nd ref="2282633296"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056764" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633299"/>
+  <nd ref="2282633301"/>
+  <nd ref="2282633302"/>
+  <nd ref="2282633300"/>
+  <nd ref="2282633299"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056765" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633301"/>
+  <nd ref="2282633303"/>
+  <nd ref="2282633304"/>
+  <nd ref="2282633302"/>
+  <nd ref="2282633301"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056766" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633303"/>
+  <nd ref="2282633305"/>
+  <nd ref="2282633306"/>
+  <nd ref="2282633304"/>
+  <nd ref="2282633303"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056767" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633305"/>
+  <nd ref="2282633307"/>
+  <nd ref="2282633308"/>
+  <nd ref="2282633306"/>
+  <nd ref="2282633305"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056768" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633307"/>
+  <nd ref="2282633309"/>
+  <nd ref="2282633310"/>
+  <nd ref="2282633308"/>
+  <nd ref="2282633307"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056769" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633309"/>
+  <nd ref="2282633311"/>
+  <nd ref="2282633312"/>
+  <nd ref="2282633310"/>
+  <nd ref="2282633309"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056770" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633311"/>
+  <nd ref="2282633313"/>
+  <nd ref="2282633314"/>
+  <nd ref="2282633312"/>
+  <nd ref="2282633311"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056771" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633313"/>
+  <nd ref="2282633315"/>
+  <nd ref="2282633316"/>
+  <nd ref="2282633314"/>
+  <nd ref="2282633313"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056772" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:11Z" user="ansis" uid="1193517">
+  <nd ref="2282633315"/>
+  <nd ref="2282633317"/>
+  <nd ref="2282633318"/>
+  <nd ref="2282633316"/>
+  <nd ref="2282633315"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056795" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:13Z" user="ansis" uid="1193517">
+  <nd ref="2282633378"/>
+  <nd ref="2282633379"/>
+  <nd ref="2282633380"/>
+  <nd ref="2282633381"/>
+  <nd ref="2282633378"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056797" visible="true" version="1" changeset="15878031" timestamp="2013-04-26T23:23:13Z" user="ansis" uid="1193517">
+  <nd ref="2282633386"/>
+  <nd ref="2282633388"/>
+  <nd ref="2282633389"/>
+  <nd ref="2282633390"/>
+  <nd ref="2282633391"/>
+  <nd ref="2282633385"/>
+  <nd ref="2282633386"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="219056796" visible="true" version="2" changeset="17272994" timestamp="2013-08-08T22:12:32Z" user="ansis" uid="1193517">
+  <nd ref="2282633378"/>
+  <nd ref="2282633382"/>
+  <nd ref="2282633383"/>
+  <nd ref="2282633384"/>
+  <nd ref="2282633385"/>
+  <nd ref="2282633386"/>
+  <nd ref="2282633387"/>
+  <nd ref="2411533086"/>
+  <nd ref="2282633378"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="38718513" visible="true" version="2" changeset="10278088" timestamp="2012-01-03T02:29:58Z" user="drukqs" uid="574729">
+  <nd ref="458940564"/>
+  <nd ref="458940563"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="38718512" visible="true" version="2" changeset="10278088" timestamp="2012-01-03T02:29:58Z" user="drukqs" uid="574729">
+  <nd ref="458940565"/>
+  <nd ref="458940561"/>
+  <nd ref="458940563"/>
+  <nd ref="458940562"/>
+  <nd ref="458940563"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="143939591" visible="true" version="1" changeset="10278496" timestamp="2012-01-03T06:01:07Z" user="drukqs" uid="574729">
+  <nd ref="1575098305"/>
+  <nd ref="476659828"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="145024897" visible="true" version="1" changeset="10354125" timestamp="2012-01-10T19:01:27Z" user="tfitzg" uid="351713">
+  <nd ref="1584900397"/>
+  <nd ref="1584900394"/>
+  <nd ref="1584900391"/>
+  <nd ref="1584900377"/>
+  <nd ref="1584900395"/>
+  <nd ref="1584900360"/>
+  <nd ref="1584900390"/>
+  <nd ref="1584900374"/>
+  <nd ref="1584900355"/>
+  <nd ref="1584900366"/>
+  <nd ref="1584900398"/>
+  <nd ref="1584900389"/>
+  <nd ref="1584900397"/>
+  <tag k="landuse" v="retail"/>
+  <tag k="name" v="Prince-Arthur"/>
+  <tag k="tourism" v="yes"/>
+ </way>
+ <way id="145024898" visible="true" version="4" changeset="14973847" timestamp="2013-02-09T22:55:56Z" user="saintam1" uid="417398">
+  <nd ref="1584900349"/>
+  <nd ref="2148352598"/>
+  <nd ref="1584900393"/>
+  <nd ref="1584900392"/>
+  <nd ref="1584900352"/>
+  <nd ref="1584900380"/>
+  <nd ref="1584900357"/>
+  <nd ref="1584900358"/>
+  <nd ref="1584900375"/>
+  <nd ref="1797236618"/>
+  <nd ref="1797236617"/>
+  <nd ref="1584900385"/>
+  <nd ref="1584900353"/>
+  <nd ref="1584900348"/>
+  <nd ref="1584900363"/>
+  <nd ref="1584900378"/>
+  <nd ref="1584900351"/>
+  <nd ref="1584900384"/>
+  <nd ref="1584900356"/>
+  <nd ref="1584900371"/>
+  <nd ref="1584900372"/>
+  <nd ref="1584900386"/>
+  <nd ref="1859341275"/>
+  <nd ref="1859341322"/>
+  <nd ref="1859341296"/>
+  <nd ref="1859341299"/>
+  <nd ref="1859341289"/>
+  <nd ref="1859341286"/>
+  <nd ref="1859341301"/>
+  <nd ref="1859341287"/>
+  <nd ref="1859341324"/>
+  <nd ref="1859341282"/>
+  <nd ref="1859341297"/>
+  <nd ref="1859341276"/>
+  <nd ref="1859341295"/>
+  <nd ref="1859341284"/>
+  <nd ref="1584900387"/>
+  <nd ref="1859341279"/>
+  <nd ref="1584900379"/>
+  <nd ref="1859341302"/>
+  <nd ref="1859341317"/>
+  <nd ref="1584900388"/>
+  <nd ref="1584900368"/>
+  <nd ref="1584900360"/>
+  <nd ref="1584900395"/>
+  <nd ref="1584900377"/>
+  <nd ref="1584900391"/>
+  <nd ref="1584900394"/>
+  <nd ref="1584900397"/>
+  <nd ref="1584900389"/>
+  <nd ref="1584900398"/>
+  <nd ref="1584900367"/>
+  <nd ref="1584900365"/>
+  <nd ref="1584900383"/>
+  <nd ref="1584900396"/>
+  <nd ref="1584900364"/>
+  <nd ref="1584900354"/>
+  <nd ref="1584900359"/>
+  <nd ref="1584900350"/>
+  <nd ref="1584900362"/>
+  <nd ref="1584900381"/>
+  <nd ref="1584900376"/>
+  <nd ref="1584900382"/>
+  <nd ref="1584900361"/>
+  <nd ref="1584900369"/>
+  <nd ref="1584900349"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="164974773" visible="true" version="4" changeset="13740258" timestamp="2012-11-03T22:18:25Z" user="tfitzg" uid="351713">
+  <nd ref="29794337"/>
+  <nd ref="1996184907"/>
+  <nd ref="29794338"/>
+  <nd ref="29794285"/>
+  <nd ref="29795957"/>
+  <nd ref="580993294"/>
+  <nd ref="580993295"/>
+  <nd ref="29793357"/>
+  <nd ref="29794315"/>
+  <nd ref="29794316"/>
+  <nd ref="1550039343"/>
+  <nd ref="29794074"/>
+  <nd ref="237603328"/>
+  <nd ref="29794075"/>
+  <nd ref="29794076"/>
+  <nd ref="31776104"/>
+  <nd ref="471062913"/>
+  <nd ref="471062543"/>
+  <nd ref="29794077"/>
+  <nd ref="29794078"/>
+  <nd ref="209027846"/>
+  <nd ref="269197137"/>
+  <nd ref="29794079"/>
+  <nd ref="29794080"/>
+  <nd ref="29784599"/>
+  <nd ref="293294413"/>
+  <nd ref="29794081"/>
+  <nd ref="1417691400"/>
+  <nd ref="26232428"/>
+  <nd ref="414446723"/>
+  <nd ref="1855120566"/>
+  <nd ref="1855120502"/>
+  <nd ref="29794110"/>
+  <nd ref="29794111"/>
+  <nd ref="29794112"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Boulevard Saint-Laurent"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="19903938" visible="true" version="7" changeset="12301610" timestamp="2012-07-18T23:31:52Z" user="OSMF Redaction Account" uid="722137">
+  <nd ref="208863270"/>
+  <nd ref="459929676"/>
+  <nd ref="1768204854"/>
+  <tag k="highway" v="residential"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="150140218" visible="true" version="9" changeset="17839871" timestamp="2013-09-14T20:30:00Z" user="permute" uid="158267">
+  <nd ref="1573345845"/>
+  <nd ref="1573345870"/>
+  <nd ref="1573345846"/>
+  <nd ref="1625835038"/>
+  <nd ref="1625835040"/>
+  <nd ref="1625835068"/>
+  <nd ref="1625835060"/>
+  <nd ref="1573345791"/>
+  <nd ref="1573345756"/>
+  <nd ref="1784832907"/>
+  <nd ref="1784832900"/>
+  <nd ref="1573345789"/>
+  <nd ref="1573345844"/>
+  <nd ref="1625835056"/>
+  <nd ref="1625835036"/>
+  <nd ref="1573345849"/>
+  <nd ref="1573345851"/>
+  <nd ref="1573345814"/>
+  <nd ref="1573345833"/>
+  <nd ref="1573345860"/>
+  <nd ref="1573345871"/>
+  <nd ref="1573345872"/>
+  <nd ref="1573345837"/>
+  <nd ref="1573345784"/>
+  <nd ref="1573345853"/>
+  <nd ref="678766354"/>
+  <nd ref="1573345876"/>
+  <nd ref="1573345821"/>
+  <nd ref="1630577641"/>
+  <nd ref="1630577638"/>
+  <nd ref="1584900379"/>
+  <nd ref="1859341302"/>
+  <nd ref="1859341317"/>
+  <nd ref="1584900388"/>
+  <nd ref="1584900368"/>
+  <nd ref="458940521"/>
+  <nd ref="1584900390"/>
+  <nd ref="1584900374"/>
+  <nd ref="1584900355"/>
+  <nd ref="1584900366"/>
+  <nd ref="1584900398"/>
+  <nd ref="1584900367"/>
+  <nd ref="1584900365"/>
+  <nd ref="1584900383"/>
+  <nd ref="1584900396"/>
+  <nd ref="1584900364"/>
+  <nd ref="1584900354"/>
+  <nd ref="2229684282"/>
+  <nd ref="2229684284"/>
+  <nd ref="1584900359"/>
+  <nd ref="1584900350"/>
+  <nd ref="1584900362"/>
+  <nd ref="1630577586"/>
+  <nd ref="1630577589"/>
+  <nd ref="1630577618"/>
+  <nd ref="1630577603"/>
+  <nd ref="1630577640"/>
+  <nd ref="1630577609"/>
+  <nd ref="1630577614"/>
+  <nd ref="1630577611"/>
+  <nd ref="1630577615"/>
+  <nd ref="1630577581"/>
+  <nd ref="1630577591"/>
+  <nd ref="1630577645"/>
+  <nd ref="1630577642"/>
+  <nd ref="1630577637"/>
+  <nd ref="1653821642"/>
+  <nd ref="1653821645"/>
+  <nd ref="2316587557"/>
+  <nd ref="2316587556"/>
+  <nd ref="1559356916"/>
+  <nd ref="1559357065"/>
+  <nd ref="1630577606"/>
+  <nd ref="414448517"/>
+  <nd ref="1559356844"/>
+  <nd ref="1630577639"/>
+  <nd ref="1630577600"/>
+  <nd ref="1630577643"/>
+  <nd ref="1573345835"/>
+  <nd ref="1573345749"/>
+  <nd ref="1573345845"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="206021786" visible="true" version="1" changeset="15071411" timestamp="2013-02-17T23:50:33Z" user="Frédéric Latour" uid="203628">
+  <nd ref="2160298919"/>
+  <nd ref="2160298916"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="232839094" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2282633387"/>
+  <nd ref="2411533084"/>
+  <nd ref="2411533089"/>
+  <nd ref="2411533085"/>
+  <nd ref="2411533086"/>
+  <nd ref="2282633387"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839095" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533084"/>
+  <nd ref="2411533087"/>
+  <nd ref="2411533092"/>
+  <nd ref="2411533096"/>
+  <nd ref="2411533088"/>
+  <nd ref="2411533089"/>
+  <nd ref="2411533084"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839096" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533087"/>
+  <nd ref="2411533090"/>
+  <nd ref="2411533091"/>
+  <nd ref="2411533092"/>
+  <nd ref="2411533087"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839097" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533090"/>
+  <nd ref="2411533093"/>
+  <nd ref="2411533097"/>
+  <nd ref="2411533094"/>
+  <nd ref="2411533091"/>
+  <nd ref="2411533090"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839098" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533092"/>
+  <nd ref="2411533091"/>
+  <nd ref="2411533094"/>
+  <nd ref="2411533102"/>
+  <nd ref="2411533095"/>
+  <nd ref="2411533096"/>
+  <nd ref="2411533092"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839099" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533097"/>
+  <nd ref="2411533098"/>
+  <nd ref="2411533099"/>
+  <nd ref="2411533100"/>
+  <nd ref="2411533101"/>
+  <nd ref="2411533102"/>
+  <nd ref="2411533097"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="232839100" visible="true" version="1" changeset="17272994" timestamp="2013-08-08T22:12:31Z" user="ansis" uid="1193517">
+  <nd ref="2411533102"/>
+  <nd ref="2411533095"/>
+  <nd ref="2411533103"/>
+  <nd ref="2411533104"/>
+  <nd ref="2411533101"/>
+  <nd ref="2411533102"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="234717098" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:33:41Z" user="procyon43" uid="1634734">
+  <nd ref="2428618981"/>
+  <nd ref="2428619015"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234717687" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:34:20Z" user="procyon43" uid="1634734">
+  <nd ref="2428618373"/>
+  <nd ref="2428618374"/>
+  <tag k="addr:interpolation" v="odd"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234717888" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:34:28Z" user="procyon43" uid="1634734">
+  <nd ref="2428619019"/>
+  <nd ref="2428619112"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234717976" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:34:32Z" user="procyon43" uid="1634734">
+  <nd ref="2428618994"/>
+  <nd ref="2428619103"/>
+  <tag k="addr:interpolation" v="odd"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234718124" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:34:39Z" user="procyon43" uid="1634734">
+  <nd ref="2428616041"/>
+  <nd ref="2428617070"/>
+  <tag k="addr:interpolation" v="odd"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234718236" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:34:45Z" user="procyon43" uid="1634734">
+  <nd ref="2428618122"/>
+  <nd ref="2428618140"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <way id="234718569" visible="true" version="1" changeset="17462430" timestamp="2013-08-22T21:35:00Z" user="procyon43" uid="1634734">
+  <nd ref="2428618888"/>
+  <nd ref="2428618914"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="source" v="NRCan-CanVec-10.0"/>
+ </way>
+ <relation id="1789846" visible="true" version="4" changeset="11717668" timestamp="2012-05-27T17:00:09Z" user="PurpleMustang" uid="28895">
+  <member type="way" ref="41258975" role="backward"/>
+  <member type="way" ref="92352683" role=""/>
+  <member type="way" ref="133806978" role=""/>
+  <member type="way" ref="4886378" role=""/>
+  <member type="way" ref="4886375" role=""/>
+  <member type="way" ref="4886374" role=""/>
+  <member type="way" ref="4886372" role=""/>
+  <member type="way" ref="4886376" role=""/>
+  <member type="way" ref="88608913" role=""/>
+  <member type="way" ref="165217769" role=""/>
+  <member type="way" ref="143920959" role=""/>
+  <tag k="name" v="Bus 144"/>
+  <tag k="operator" v="Bus 144"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

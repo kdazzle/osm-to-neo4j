@@ -4,6 +4,22 @@ from .fields import Property, RelationshipFrom, RelationshipTo
 from neo4jrestclient.query import Q
 
 
+class NodeManager(object):
+
+    @staticmethod
+    def find_by_property(property, value):
+        """
+        Performs a case-sensitive query on the database and returns
+        matching nodes
+
+        :param property: string - the property being queried
+        :param value: the value that the property should be (case-sensitive)
+        :return: list of nodes
+        """
+        lookup = Q(property, exact=value)
+        return db.nodes.filter(lookup)
+
+
 class Node(object):
     """
     A Neo4j Node
@@ -50,19 +66,3 @@ class Node(object):
             })
 
         return fields_by_field_type
-
-
-class NodeManager(object):
-
-    @staticmethod
-    def find_by_property(property, value):
-        """
-        Performs a case-sensitive query on the database and returns
-        matching nodes
-
-        :param property: string - the property being queried
-        :param value: the value that the property should be (case-sensitive)
-        :return: list of nodes
-        """
-        lookup = Q(property, exact=value)
-        return db.nodes.filter(lookup)
