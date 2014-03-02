@@ -1,0 +1,6 @@
+This is very much a work in progress.
+
+To try this out make sure your neo4j database is running and type
+    python -m osm_to_neo4j.create_database
+    
+The default address for the Neo4J database is localhost:7474, but it can be changed in __init__.py
