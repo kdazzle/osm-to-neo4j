@@ -14,6 +14,11 @@ class OsmNode(Node):
         for property, value in kwargs.iteritems():
             setattr(self, property, value)
 
+    def __repr__(self):
+        return "{klass} - {id}".format(
+            klass=self.__class__,
+            id=self.osm_id)
+
 
 class GeoLocation(OsmNode):
 

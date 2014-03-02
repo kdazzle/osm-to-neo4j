@@ -22,26 +22,29 @@ class IndexField(Field):
 
 class RelationshipField(Field):
 
-    def __init__(self, relationship_type, relation, *args, **kwargs):
+    def __init__(self, relation, relationship_type, *args, **kwargs):
         """
-        :param relationship_type: a pithy string summarizing the relationship
-                for example: "Knows"
         :param relation: the Node that has a relationship with this Node
+        :param relationship_type: a pithy string summarizing the relationship
+                        for example: "Knows"
         """
         self.relationship_type = relationship_type
         self.relation = relation
 
     @staticmethod
-    def save_relationships(node, relationships):
+    def save_relationships(instance, node, relationships):
         """
-
         :param node: the start node of a directional relationship
-        :param relationships: a dictionary of relationships by relationship
-                type to a node: {"Knows": janeNode}
-
+            :type node: neo4jrestclient.client.Node
+        :param relationships: a dictionary of attribute names to their values:
+                {"vector": VectorObj}
         """
-        for relationship_type, relation in relationships.iteritems():
-            node.relationships.create(relationship_type, relation)
+        calling_class = instance.__class__
+
+        for attribute, value in relationships.iteritems():
+            relationship = getattr(calling_class, attribute)
+            relationship_type = relationship.relationship_type
+            node.relationships.create(relationship_type, value)
 
 
 class RelationshipTo(RelationshipField):
@@ -52,12 +55,17 @@ class RelationshipTo(RelationshipField):
 class RelationshipFrom(RelationshipField):
 
     @staticmethod
-    def save_relationships(node, relationships):
+    def save_relationships(instance, node, relationships):
         """
         Saves all of the relationships
         :param node: The end node of the directional relationship
-        :param relationships: a dictionary of relationships by relationship
-                type to a node: {"Knows": janeNode}
+            :type node: neo4jrestclient.client.Node
+        :param relationships: a dictionary of attribute names to their values:
+                {"vector": VectorObj}
         """
-        for relationship_type, relation in relationships.iteritems():
-            relation.relationships.create(relationship_type, node)
+        calling_class = instance.__class__
+
+        for attribute, related_node in relationships.iteritems():
+            relationship = getattr(calling_class, attribute)
+            relationship_type = relationship.relationship_type
+            related_node.relationships.create(relationship_type, node)
