@@ -34,6 +34,7 @@ class RelationshipField(Field):
     @staticmethod
     def save_relationships(instance, node, relationships):
         """
+        :param instance: the instance that contains this relationship field
         :param node: the start node of a directional relationship
             :type node: neo4jrestclient.client.Node
         :param relationships: a dictionary of attribute names to their values:
@@ -41,9 +42,9 @@ class RelationshipField(Field):
         """
         calling_class = instance.__class__
 
-        for attribute, value in relationships.iteritems():
-            relationship = getattr(calling_class, attribute)
-            relationship_type = relationship.relationship_type
+        for attribute_name, value in relationships.iteritems():
+            relationship_field = getattr(calling_class, attribute_name)
+            relationship_type = relationship_field.relationship_type
             node.relationships.create(relationship_type, value)
 
 
@@ -57,7 +58,7 @@ class RelationshipFrom(RelationshipField):
     @staticmethod
     def save_relationships(instance, node, relationships):
         """
-        Saves all of the relationships
+        :param instance: the instance that contains this relationship field
         :param node: The end node of the directional relationship
             :type node: neo4jrestclient.client.Node
         :param relationships: a dictionary of attribute names to their values:
@@ -65,7 +66,7 @@ class RelationshipFrom(RelationshipField):
         """
         calling_class = instance.__class__
 
-        for attribute, related_node in relationships.iteritems():
-            relationship = getattr(calling_class, attribute)
-            relationship_type = relationship.relationship_type
-            related_node.relationships.create(relationship_type, node)
+        for attribute_name, related_node in relationships.iteritems():
+            relationship_field = getattr(calling_class, attribute_name)
+            relationship_type = relationship_field.relationship_type
+            related_node.neo4j_node.relationships.create(relationship_type, node)
