@@ -42,31 +42,22 @@ class RelationshipField(Field):
         """
         calling_class = instance.__class__
 
-        for attribute_name, value in relationships.iteritems():
+        for attribute_name, related_node in relationships.iteritems():
             relationship_field = getattr(calling_class, attribute_name)
             relationship_type = relationship_field.relationship_type
-            node.relationships.create(relationship_type, value)
+            relationship_field.save_relationship(node, related_node,
+                                                 relationship_type)
 
 
 class RelationshipTo(RelationshipField):
 
-    pass
+    @staticmethod
+    def save_relationship(start_node, end_node, relationship_type):
+        start_node.relationships.create(relationship_type, end_node)
 
 
 class RelationshipFrom(RelationshipField):
 
     @staticmethod
-    def save_relationships(instance, node, relationships):
-        """
-        :param instance: the instance that contains this relationship field
-        :param node: The end node of the directional relationship
-            :type node: neo4jrestclient.client.Node
-        :param relationships: a dictionary of attribute names to their values:
-                {"vector": VectorObj}
-        """
-        calling_class = instance.__class__
-
-        for attribute_name, related_node in relationships.iteritems():
-            relationship_field = getattr(calling_class, attribute_name)
-            relationship_type = relationship_field.relationship_type
-            related_node.neo4j_node.relationships.create(relationship_type, node)
+    def save_relationship(end_node, start_node, relationship_type):
+        start_node.neo4j_node.relationships.create(relationship_type, end_node)
