@@ -1,23 +1,39 @@
+from .exceptions import NeoFieldException
+
+
 class Field(object):
     pass
 
 
 class Property(Field):
 
+    def __init__(self, index=False, *args, **kwargs):
+        """
+        :param index: set to True if you want the Property to be an index.
+            Defaults to false.
+        """
+        self.index = index
+
+    def is_index(self):
+        """
+        Is this property field an index?
+
+        :return: Boolean
+        """
+        return self.index
+
     @staticmethod
     def save_properties(node, properties):
         """
-        Adds the given properties to the given node
+        Adds multiple properties to the given node
 
         :param node: a Neo4j node
-        :param properties: a dictionary of properties to values
+        :param properties: a dictionary of property names to values.
+                For example: {'id': 10}
         """
-        for property, value in properties.iteritems():
-            node[property] = value
+        for property_name, value in properties.iteritems():
 
-
-class IndexField(Field):
-    pass
+            node[property_name] = value
 
 
 class RelationshipField(Field):

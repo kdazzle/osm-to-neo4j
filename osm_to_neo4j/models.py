@@ -7,8 +7,8 @@ class OsmNode(Node):
     The Neo4J representation of an Open Street Map node
     """
 
-    osm_id = Property()
-    "The node ID given by Open Street Map"
+    osm_id = Property(index=True)
+    "The node ID given by Open StreetMap"
 
     def __init__(self, *args, **kwargs):
         for property, value in kwargs.iteritems():

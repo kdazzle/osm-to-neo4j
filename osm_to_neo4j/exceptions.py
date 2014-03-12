@@ -1,0 +1,2 @@
+class NeoFieldException(Exception):
+    pass
