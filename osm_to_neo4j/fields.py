@@ -1,6 +1,3 @@
-from .exceptions import NeoFieldException
-
-
 class Field(object):
     pass
 
