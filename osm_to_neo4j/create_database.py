@@ -2,7 +2,6 @@ from os.path import join, dirname
 import xml.etree.ElementTree as element_tree
 
 from .models import GeoLocation, Vector, VectorSegment, Street
-from .__init__ import db
 
 
 OSM_FILE_LOCATION = join(dirname(__file__), '..', 'sample_map.osm')

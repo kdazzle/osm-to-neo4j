@@ -1,1 +1,1 @@
-neo4jrestclient==2.0.0
+git+https://github.com/kdazzle/py-neorm4j.git

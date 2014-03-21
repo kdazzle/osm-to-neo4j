@@ -10,10 +10,6 @@ class OsmNode(Node):
     osm_id = Property(index=True)
     "The node ID given by Open StreetMap"
 
-    def __init__(self, *args, **kwargs):
-        for property, value in kwargs.iteritems():
-            setattr(self, property, value)
-
     def __repr__(self):
         return "{klass} - {id}".format(
             klass=self.__class__,
