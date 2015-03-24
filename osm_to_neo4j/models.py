@@ -1,5 +1,5 @@
 from neorm4j.fields import Property, RelationshipTo, RelationshipFrom
-from .db import Node
+from neorm4j.models import Node
 
 
 class OsmNode(Node):
