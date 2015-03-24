@@ -1,4 +1,4 @@
-from .fields import Property, RelationshipTo, RelationshipFrom
+from neorm4j.fields import Property, RelationshipTo, RelationshipFrom
 from .db import Node
 
 
